@@ -1,0 +1,1557 @@
+[13608] Log opened at 2021-07-09 08:41:22
+[13608] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13608] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13608] Log closed at 2021-07-09 08:41:23
+
+[5748] Log opened at 2021-07-09 08:43:01
+[5748] I: Connecting to configured address/port: 127.0.0.1:9000.
+[5748] E: Time-out connecting to client (Waited: 200 ms). :-(
+[5748] Log closed at 2021-07-09 08:43:01
+
+[12804] Log opened at 2021-07-09 08:43:03
+[12804] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12804] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12804] Log closed at 2021-07-09 08:43:03
+
+[16784] Log opened at 2021-08-04 07:06:31
+[16784] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16784] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16784] Log closed at 2021-08-04 07:06:32
+
+[13416] Log opened at 2021-08-04 07:08:01
+[13416] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13416] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13416] Log closed at 2021-08-04 07:08:01
+
+[16980] Log opened at 2021-08-04 07:09:43
+[16980] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16980] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16980] Log closed at 2021-08-04 07:09:43
+
+[20496] Log opened at 2021-08-04 07:11:12
+[20496] I: Connecting to configured address/port: 127.0.0.1:9000.
+[20496] E: Time-out connecting to client (Waited: 200 ms). :-(
+[20496] Log closed at 2021-08-04 07:11:12
+
+[20460] Log opened at 2021-08-04 07:13:50
+[20460] I: Connecting to configured address/port: 127.0.0.1:9000.
+[20460] E: Time-out connecting to client (Waited: 200 ms). :-(
+[20460] Log closed at 2021-08-04 07:13:50
+
+[10860] Log opened at 2021-08-04 07:17:40
+[10860] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10860] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10860] Log closed at 2021-08-04 07:17:40
+
+[10692] Log opened at 2021-08-04 07:20:58
+[10692] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10692] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10692] Log closed at 2021-08-04 07:20:59
+
+[4860] Log opened at 2021-08-04 07:22:41
+[4860] I: Connecting to configured address/port: 127.0.0.1:9000.
+[4860] E: Time-out connecting to client (Waited: 200 ms). :-(
+[4860] Log closed at 2021-08-04 07:22:41
+
+[19916] Log opened at 2021-08-04 07:30:16
+[19916] I: Connecting to configured address/port: 127.0.0.1:9000.
+[19916] E: Time-out connecting to client (Waited: 200 ms). :-(
+[19916] Log closed at 2021-08-04 07:30:16
+
+[13760] Log opened at 2021-08-04 07:32:25
+[13760] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13760] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13760] Log closed at 2021-08-04 07:32:25
+
+[9608] Log opened at 2021-08-04 07:34:18
+[9608] I: Connecting to configured address/port: 127.0.0.1:9000.
+[9608] E: Time-out connecting to client (Waited: 200 ms). :-(
+[9608] Log closed at 2021-08-04 07:34:18
+
+[4684] Log opened at 2021-08-04 07:58:04
+[4684] I: Connecting to configured address/port: 127.0.0.1:9000.
+[4684] E: Time-out connecting to client (Waited: 200 ms). :-(
+[4684] Log closed at 2021-08-04 07:58:04
+
+[12088] Log opened at 2021-08-04 07:58:16
+[12088] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12088] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12088] Log closed at 2021-08-04 07:58:16
+
+[11988] Log opened at 2021-08-04 08:01:31
+[11988] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11988] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11988] Log closed at 2021-08-04 08:01:31
+
+[9456] Log opened at 2021-08-04 08:03:37
+[9456] I: Connecting to configured address/port: 127.0.0.1:9000.
+[9456] E: Time-out connecting to client (Waited: 200 ms). :-(
+[9456] Log closed at 2021-08-04 08:03:37
+
+[18060] Log opened at 2021-08-05 08:00:13
+[18060] I: Connecting to configured address/port: 127.0.0.1:9000.
+[18060] E: Time-out connecting to client (Waited: 200 ms). :-(
+[18060] Log closed at 2021-08-05 08:00:14
+
+[1244] Log opened at 2021-08-05 09:37:04
+[1244] I: Connecting to configured address/port: 127.0.0.1:9000.
+[1244] E: Time-out connecting to client (Waited: 200 ms). :-(
+[1244] Log closed at 2021-08-05 09:37:04
+
+[8816] Log opened at 2021-08-05 09:38:59
+[8816] I: Connecting to configured address/port: 127.0.0.1:9000.
+[8816] E: Time-out connecting to client (Waited: 200 ms). :-(
+[8816] Log closed at 2021-08-05 09:38:59
+
+[18344] Log opened at 2021-08-06 02:06:52
+[18344] I: Connecting to configured address/port: 127.0.0.1:9000.
+[18344] E: Time-out connecting to client (Waited: 200 ms). :-(
+[18344] Log closed at 2021-08-06 02:06:53
+
+[12016] Log opened at 2021-08-06 02:36:42
+[12016] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12016] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12016] Log closed at 2021-08-06 02:36:42
+
+[18012] Log opened at 2021-08-06 03:03:03
+[18012] I: Connecting to configured address/port: 127.0.0.1:9000.
+[18012] E: Time-out connecting to client (Waited: 200 ms). :-(
+[18012] Log closed at 2021-08-06 03:03:03
+
+[7696] Log opened at 2021-08-06 03:03:57
+[7696] I: Connecting to configured address/port: 127.0.0.1:9000.
+[7696] E: Time-out connecting to client (Waited: 200 ms). :-(
+[7696] Log closed at 2021-08-06 03:03:57
+
+[12652] Log opened at 2021-08-06 03:04:09
+[12652] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12652] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12652] Log closed at 2021-08-06 03:04:10
+
+[17196] Log opened at 2021-08-06 03:28:34
+[17196] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17196] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17196] Log closed at 2021-08-06 03:28:35
+
+[12072] Log opened at 2021-08-06 07:38:35
+[12072] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12072] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12072] Log closed at 2021-08-06 07:38:35
+
+[2056] Log opened at 2021-08-06 09:59:51
+[2056] I: Connecting to configured address/port: 127.0.0.1:9000.
+[2056] E: Time-out connecting to client (Waited: 200 ms). :-(
+[2056] Log closed at 2021-08-06 09:59:51
+
+[380] Log opened at 2021-08-06 16:19:47
+[380] I: Connecting to configured address/port: 127.0.0.1:9000.
+[380] I: Connected to client. :-)
+[380] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="380" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[380] <- feature_set -i 1 -n show_hidden -v 1
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[380] <- feature_set -i 2 -n max_depth -v 1
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[380] <- feature_set -i 3 -n max_children -v 100
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[380] <- feature_set -i 4 -n extended_properties -v 1
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[380] <- feature_set -i 5 -n notify_ok -v 1
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[380] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[380] <- stdout -i 7 -c 1
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[380] <- status -i 8
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[380] <- step_into -i 9
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[380] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[380] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[380] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[380] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[380] <- stack_get -i 14
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[380] <- run -i 15
+[380] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[380] <- run -i 16
+[380] Log closed at 2021-08-06 16:19:49
+
+[17192] Log opened at 2021-08-06 16:20:04
+[17192] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17192] I: Connected to client. :-)
+[17192] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="17192" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[17192] <- feature_set -i 1 -n show_hidden -v 1
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[17192] <- feature_set -i 2 -n max_depth -v 1
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[17192] <- feature_set -i 3 -n max_children -v 100
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[17192] <- feature_set -i 4 -n extended_properties -v 1
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[17192] <- feature_set -i 5 -n notify_ok -v 1
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[17192] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[17192] <- stdout -i 7 -c 1
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[17192] <- status -i 8
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[17192] <- step_into -i 9
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[17192] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[17192] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[17192] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[17192] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[17192] <- stack_get -i 14
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[17192] <- run -i 15
+[17192] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[17192] <- run -i 16
+[17192] Log closed at 2021-08-06 16:20:06
+
+[20984] Log opened at 2021-08-06 16:23:20
+[20984] I: Connecting to configured address/port: 127.0.0.1:9000.
+[20984] I: Connected to client. :-)
+[20984] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="20984" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[20984] <- feature_set -i 1 -n show_hidden -v 1
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[20984] <- feature_set -i 2 -n max_depth -v 1
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[20984] <- feature_set -i 3 -n max_children -v 100
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[20984] <- feature_set -i 4 -n extended_properties -v 1
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[20984] <- feature_set -i 5 -n notify_ok -v 1
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[20984] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[20984] <- stdout -i 7 -c 1
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[20984] <- status -i 8
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[20984] <- step_into -i 9
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[20984] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[20984] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[20984] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[20984] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[20984] <- stack_get -i 14
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[20984] <- run -i 15
+[20984] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[20984] <- run -i 16
+[20984] Log closed at 2021-08-06 16:23:21
+
+[21328] Log opened at 2021-08-06 16:25:20
+[21328] I: Connecting to configured address/port: 127.0.0.1:9000.
+[21328] I: Connected to client. :-)
+[21328] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="21328" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[21328] <- feature_set -i 1 -n show_hidden -v 1
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[21328] <- feature_set -i 2 -n max_depth -v 1
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[21328] <- feature_set -i 3 -n max_children -v 100
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[21328] <- feature_set -i 4 -n extended_properties -v 1
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[21328] <- feature_set -i 5 -n notify_ok -v 1
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[21328] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[21328] <- stdout -i 7 -c 1
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[21328] <- status -i 8
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[21328] <- step_into -i 9
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[21328] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[21328] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[21328] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[21328] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[21328] <- stack_get -i 14
+[21328] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[21328] <- run -i 15
+[11608] Log opened at 2021-08-06 16:25:28
+[11608] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11608] I: Connected to client. :-)
+[11608] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="11608" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[11608] <- feature_set -i 1 -n show_hidden -v 1
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[11608] <- feature_set -i 2 -n max_depth -v 1
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[11608] <- feature_set -i 3 -n max_children -v 100
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[11608] <- feature_set -i 4 -n extended_properties -v 1
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[11608] <- feature_set -i 5 -n notify_ok -v 1
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[11608] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[11608] <- stdout -i 7 -c 1
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[11608] <- status -i 8
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[11608] <- step_into -i 9
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[11608] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[11608] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[11608] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[11608] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[11608] <- stack_get -i 14
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[11608] <- run -i 15
+[12836] Log opened at 2021-08-06 16:25:30
+[12836] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12836] I: Connected to client. :-)
+[12836] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="12836" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[12836] <- feature_set -i 1 -n show_hidden -v 1
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[12836] <- feature_set -i 2 -n max_depth -v 1
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[12836] <- feature_set -i 3 -n max_children -v 100
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[12836] <- feature_set -i 4 -n extended_properties -v 1
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[12836] <- feature_set -i 5 -n notify_ok -v 1
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[12836] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[12836] <- stdout -i 7 -c 1
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[12836] <- status -i 8
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[12836] <- step_into -i 9
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></xdebug:message></response>
+
+[12836] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[12836] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[12836] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[12836] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[12836] <- stack_get -i 14
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></stack></response>
+
+[12836] <- stack_get -i 15
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="15"><stack where="{main}" level="0" type="file" filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></stack></response>
+
+[12836] <- context_names -i 16
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="16"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[12836] <- context_get -i 17 -d 0 -c 0
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="17" context="0"></response>
+
+[12836] <- context_get -i 18 -d 0 -c 1
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="18" context="1"><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_ENV" fullname="$_ENV" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_FILES" fullname="$_FILES" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_GET" fullname="$_GET" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_POST" fullname="$_POST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_REQUEST" fullname="$_REQUEST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_SERVER" fullname="$_SERVER" type="array" children="1" numchildren="95" page="0" pagesize="100"><property name="NUMBER_OF_PROCESSORS" fullname="$_SERVER[&quot;NUMBER_OF_PROCESSORS&quot;]" type="string" size="1" encoding="base64"><![CDATA[NA==]]></property><property name="CommonProgramFiles" fullname="$_SERVER[&quot;CommonProgramFiles&quot;]" type="string" size="29" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xDb21tb24gRmlsZXM=]]></property><property name="JAVA_HOME" fullname="$_SERVER[&quot;JAVA_HOME&quot;]" type="string" size="34" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpyZTEuOC4wXzI3MQ==]]></property><property name="COMPUTERNAME" fullname="$_SERVER[&quot;COMPUTERNAME&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="OneDriveConsumer" fullname="$_SERVER[&quot;OneDriveConsumer&quot;]" type="string" size="23" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcT25lRHJpdmU=]]></property><property name="PROMPT" fullname="$_SERVER[&quot;PROMPT&quot;]" type="string" size="4" encoding="base64"><![CDATA[JFAkRw==]]></property><property name="__INTELLIJ_COMMAND_HISTFILE__" fullname="$_SERVER[&quot;__INTELLIJ_COMMAND_HISTFILE__&quot;]" type="string" size="84" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxSb2FtaW5nXEpldEJyYWluc1xQaHBTdG9ybTIwMjAuMVx0ZXJtaW5hbFxoaXN0b3J5XGhpc3RvcnktNDIw]]></property><property name="SystemDrive" fullname="$_SERVER[&quot;SystemDrive&quot;]" type="string" size="2" encoding="base64"><![CDATA[Qzo=]]></property><property name="LOGONSERVER" fullname="$_SERVER[&quot;LOGONSERVER&quot;]" type="string" size="17" encoding="base64"><![CDATA[XFxERVNLVE9QLU8zUkZIRUM=]]></property><property name="TEMP" fullname="$_SERVER[&quot;TEMP&quot;]" type="string" size="33" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxUZW1w]]></property><property name="TMP" fullname="$_SERVER[&quot;TMP&quot;]" type="string" size="33" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxUZW1w]]></property><property name="HOMEPATH" fullname="$_SERVER[&quot;HOMEPATH&quot;]" type="string" size="12" encoding="base64"><![CDATA[XFVzZXJzXG1haWxz]]></property><property name="PATHEXT" fullname="$_SERVER[&quot;PATHEXT&quot;]" type="string" size="53" encoding="base64"><![CDATA[LkNPTTsuRVhFOy5CQVQ7LkNNRDsuVkJTOy5WQkU7LkpTOy5KU0U7LldTRjsuV1NIOy5NU0M=]]></property><property name="IDEA_INITIAL_DIRECTORY" fullname="$_SERVER[&quot;IDEA_INITIAL_DIRECTORY&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xKZXRCcmFpbnNcUGhwU3Rvcm0gMjAyMC4xXGJpbg==]]></property><property name="ANDROID_HOME" fullname="$_SERVER[&quot;ANDROID_HOME&quot;]" type="string" size="40" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxBbmRyb2lkXFNkaw==]]></property><property name="USERNAME" fullname="$_SERVER[&quot;USERNAME&quot;]" type="string" size="5" encoding="base64"><![CDATA[bWFpbHM=]]></property><property name="ProgramFiles" fullname="$_SERVER[&quot;ProgramFiles&quot;]" type="string" size="16" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcw==]]></property><property name="USERDOMAIN_ROAMINGPROFILE" fullname="$_SERVER[&quot;USERDOMAIN_ROAMINGPROFILE&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="LOCALAPPDATA" fullname="$_SERVER[&quot;LOCALAPPDATA&quot;]" type="string" size="28" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbA==]]></property><property name="TERMINAL_EMULATOR" fullname="$_SERVER[&quot;TERMINAL_EMULATOR&quot;]" type="string" size="18" encoding="base64"><![CDATA[SmV0QnJhaW5zLUplZGlUZXJt]]></property><property name="PROCESSOR_IDENTIFIER" fullname="$_SERVER[&quot;PROCESSOR_IDENTIFIER&quot;]" type="string" size="48" encoding="base64"><![CDATA[QU1ENjQgRmFtaWx5IDE2IE1vZGVsIDUgU3RlcHBpbmcgMywgQXV0aGVudGljQU1E]]></property><property name="DriverData" fullname="$_SERVER[&quot;DriverData&quot;]" type="string" size="38" encoding="base64"><![CDATA[QzpcV2luZG93c1xTeXN0ZW0zMlxEcml2ZXJzXERyaXZlckRhdGE=]]></property><property name="APPDATA" fullname="$_SERVER[&quot;APPDATA&quot;]" type="string" size="30" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxSb2FtaW5n]]></property><property name="ALLUSERSPROFILE" fullname="$_SERVER[&quot;ALLUSERSPROFILE&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGE=]]></property><property name="USERDOMAIN" fullname="$_SERVER[&quot;USERDOMAIN&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="PROCESSOR_LEVEL" fullname="$_SERVER[&quot;PROCESSOR_LEVEL&quot;]" type="string" size="2" encoding="base64"><![CDATA[MTY=]]></property><property name="ProgramData" fullname="$_SERVER[&quot;ProgramData&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGE=]]></property><property name="ComSpec" fullname="$_SERVER[&quot;ComSpec&quot;]" type="string" size="27" encoding="base64"><![CDATA[QzpcV0lORE9XU1xzeXN0ZW0zMlxjbWQuZXhl]]></property><property name="PROCESSOR_ARCHITECTURE" fullname="$_SERVER[&quot;PROCESSOR_ARCHITECTURE&quot;]" type="string" size="5" encoding="base64"><![CDATA[QU1ENjQ=]]></property><property name="PUBLIC" fullname="$_SERVER[&quot;PUBLIC&quot;]" type="string" size="15" encoding="base64"><![CDATA[QzpcVXNlcnNcUHVibGlj]]></property><property name="SystemRoot" fullname="$_SERVER[&quot;SystemRoot&quot;]" type="string" size="10" encoding="base64"><![CDATA[QzpcV0lORE9XUw==]]></property><property name="PROCESSOR_REVISION" fullname="$_SERVER[&quot;PROCESSOR_REVISION&quot;]" type="string" size="4" encoding="base64"><![CDATA[MDUwMw==]]></property><property name="OneDrive" fullname="$_SERVER[&quot;OneDrive&quot;]" type="string" size="23" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcT25lRHJpdmU=]]></property><property name="PSModulePath" fullname="$_SERVER[&quot;PSModulePath&quot;]" type="string" size="93" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xXaW5kb3dzUG93ZXJTaGVsbFxNb2R1bGVzO0M6XFdJTkRPV1Ncc3lzdGVtMzJcV2luZG93c1Bvd2VyU2hlbGxcdjEuMFxNb2R1bGVz]]></property><property name="PATH" fullname="$_SERVER[&quot;PATH&quot;]" type="string" size="846" encoding="base64"><![CDATA[RTpcV29ya2luZ1xubXNfZWNvbW1cbm9kZV9tb2R1bGVzXC5iaW47QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxDb21tb24gRmlsZXNcT3JhY2xlXEphdmFcamF2YXBhdGg7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxOZXRTYXJhbmdcWG1hbmFnZXIgNlw7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxOZXRTYXJhbmdcWHNoZWxsIDZcO0M6XFdJTkRPV1Ncc3lzdGVtMzI7QzpcV0lORE9XUztDOlxXSU5ET1dTXFN5c3RlbTMyXFdiZW07QzpcV0lORE9XU1xTeXN0ZW0zMlxXaW5kb3dzUG93ZXJTaGVsbFx2MS4wXDtDOlxXSU5ET1dTXFN5c3RlbTMyXE9wZW5TU0hcO0M6XHhhbXBwXHBocDtDOlxQcm9ncmFtRGF0YVxDb21wb3NlclNldHVwXGJpbjtDOlxQcm9ncmFtIEZpbGVzXFRvcnRvaXNlU1ZOXGJpbjtDOlxQcm9ncmFtIEZpbGVzXFB1VFRZXDtDOlxQcm9ncmFtIEZpbGVzXEdpdFxjbWQ7QzpcUHJvZ3JhbSBGaWxlc1xub2RlanNcO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcTWljcm9zb2Z0XFdpbmRvd3NBcHBzO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcUm9hbWluZ1xDb21wb3Nlclx2ZW5kb3JcYmluO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcUHJvZ3JhbXNcTWljcm9zb2Z0IFZTIENvZGVcYmluO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcQW5kcm9pZFxTZGs7QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxBbmRyb2lkXFNka1xwbGF0Zm9ybS10b29scztDOlxQcm9ncmFtIEZpbGVzXEphdmFcanJlMS44LjBfMjcxXGJpbjs7QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxQcm9ncmFtc1xFbUVkaXRvcjtDOlxVc2Vyc1xtYWlsc1xBcHBEYXRhXFJvYW1pbmdcbnBt]]></property><property name="ProgramFiles(x86)" fullname="$_SERVER[&quot;ProgramFiles(x86)&quot;]" type="string" size="22" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KQ==]]></property><property name="USERPROFILE" fullname="$_SERVER[&quot;USERPROFILE&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHM=]]></property><property name="SESSIONNAME" fullname="$_SERVER[&quot;SESSIONNAME&quot;]" type="string" size="7" encoding="base64"><![CDATA[Q29uc29sZQ==]]></property><property name="windir" fullname="$_SERVER[&quot;windir&quot;]" type="string" size="10" encoding="base64"><![CDATA[QzpcV0lORE9XUw==]]></property><property name="ProgramW6432" fullname="$_SERVER[&quot;ProgramW6432&quot;]" type="string" size="16" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcw==]]></property><property name="OS" fullname="$_SERVER[&quot;OS&quot;]" type="string" size="10" encoding="base64"><![CDATA[V2luZG93c19OVA==]]></property><property name="CommonProgramFiles(x86)" fullname="$_SERVER[&quot;CommonProgramFiles(x86)&quot;]" type="string" size="35" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxDb21tb24gRmlsZXM=]]></property><property name="HOMEDRIVE" fullname="$_SERVER[&quot;HOMEDRIVE&quot;]" type="string" size="2" encoding="base64"><![CDATA[Qzo=]]></property><property name="CommonProgramW6432" fullname="$_SERVER[&quot;CommonProgramW6432&quot;]" type="string" size="29" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xDb21tb24gRmlsZXM=]]></property><property name="APP_NAME" fullname="$_SERVER[&quot;APP_NAME&quot;]" type="string" size="3" encoding="base64"><![CDATA[bm1z]]></property><property name="APP_ENV" fullname="$_SERVER[&quot;APP_ENV&quot;]" type="string" size="5" encoding="base64"><![CDATA[bG9jYWw=]]></property><property name="APP_KEY" fullname="$_SERVER[&quot;APP_KEY&quot;]" type="string" size="51" encoding="base64"><![CDATA[YmFzZTY0OlFybmUzMFFVSjJaOWxPc3NNNHpTM3VTZVlPckJSWVR2U2dYZjJMK2o0MWc9]]></property><property name="APP_DEBUG" fullname="$_SERVER[&quot;APP_DEBUG&quot;]" type="string" size="4" encoding="base64"><![CDATA[dHJ1ZQ==]]></property><property name="APP_URL" fullname="$_SERVER[&quot;APP_URL&quot;]" type="string" size="16" encoding="base64"><![CDATA[aHR0cDovL2xvY2FsaG9zdA==]]></property><property name="LOG_CHANNEL" fullname="$_SERVER[&quot;LOG_CHANNEL&quot;]" type="string" size="5" encoding="base64"><![CDATA[c3RhY2s=]]></property><property name="LOG_LEVEL" fullname="$_SERVER[&quot;LOG_LEVEL&quot;]" type="string" size="5" encoding="base64"><![CDATA[ZGVidWc=]]></property><property name="DB_CONNECTION" fullname="$_SERVER[&quot;DB_CONNECTION&quot;]" type="string" size="5" encoding="base64"><![CDATA[bXlzcWw=]]></property><property name="DB_HOST" fullname="$_SERVER[&quot;DB_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="DB_PORT" fullname="$_SERVER[&quot;DB_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[MzMwNg==]]></property><property name="DB_DATABASE" fullname="$_SERVER[&quot;DB_DATABASE&quot;]" type="string" size="6" encoding="base64"><![CDATA[ZGJfbm1z]]></property><property name="DB_USERNAME" fullname="$_SERVER[&quot;DB_USERNAME&quot;]" type="string" size="4" encoding="base64"><![CDATA[cm9vdA==]]></property><property name="DB_PASSWORD" fullname="$_SERVER[&quot;DB_PASSWORD&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="BROADCAST_DRIVER" fullname="$_SERVER[&quot;BROADCAST_DRIVER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bG9n]]></property><property name="CACHE_DRIVER" fullname="$_SERVER[&quot;CACHE_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[ZmlsZQ==]]></property><property name="FILESYSTEM_DRIVER" fullname="$_SERVER[&quot;FILESYSTEM_DRIVER&quot;]" type="string" size="5" encoding="base64"><![CDATA[bG9jYWw=]]></property><property name="QUEUE_CONNECTION" fullname="$_SERVER[&quot;QUEUE_CONNECTION&quot;]" type="string" size="4" encoding="base64"><![CDATA[c3luYw==]]></property><property name="SESSION_DRIVER" fullname="$_SERVER[&quot;SESSION_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[ZmlsZQ==]]></property><property name="SESSION_LIFETIME" fullname="$_SERVER[&quot;SESSION_LIFETIME&quot;]" type="string" size="3" encoding="base64"><![CDATA[MTIw]]></property><property name="MEMCACHED_HOST" fullname="$_SERVER[&quot;MEMCACHED_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="REDIS_HOST" fullname="$_SERVER[&quot;REDIS_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="REDIS_PASSWORD" fullname="$_SERVER[&quot;REDIS_PASSWORD&quot;]" type="string" size="4" encoding="base64"><![CDATA[bnVsbA==]]></property><property name="REDIS_PORT" fullname="$_SERVER[&quot;REDIS_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[NjM3OQ==]]></property><property name="MAIL_DRIVER" fullname="$_SERVER[&quot;MAIL_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[c210cA==]]></property><property name="MAIL_HOST" fullname="$_SERVER[&quot;MAIL_HOST&quot;]" type="string" size="14" encoding="base64"><![CDATA[c210cC5nbWFpbC5jb20=]]></property><property name="MAIL_PORT" fullname="$_SERVER[&quot;MAIL_PORT&quot;]" type="string" size="3" encoding="base64"><![CDATA[NDY1]]></property><property name="MAIL_USERNAME" fullname="$_SERVER[&quot;MAIL_USERNAME&quot;]" type="string" size="22" encoding="base64"><![CDATA[YXBwY29uZG8yMDIwQGdtYWlsLmNvbQ==]]></property><property name="MAIL_PASSWORD" fullname="$_SERVER[&quot;MAIL_PASSWORD&quot;]" type="string" size="16" encoding="base64"><![CDATA[anJ4emV2eWN2emF6dWVyYg==]]></property><property name="MAIL_ENCRYPTION" fullname="$_SERVER[&quot;MAIL_ENCRYPTION&quot;]" type="string" size="3" encoding="base64"><![CDATA[c3Ns]]></property><property name="MAIL_FROM_ADDRESS" fullname="$_SERVER[&quot;MAIL_FROM_ADDRESS&quot;]" type="string" size="14" encoding="base64"><![CDATA[dGVzdEBnbWFpbC5jb20=]]></property><property name="MAIL_FROM_NAME" fullname="$_SERVER[&quot;MAIL_FROM_NAME&quot;]" type="string" size="3" encoding="base64"><![CDATA[bm1z]]></property><property name="AWS_ACCESS_KEY_ID" fullname="$_SERVER[&quot;AWS_ACCESS_KEY_ID&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_SECRET_ACCESS_KEY" fullname="$_SERVER[&quot;AWS_SECRET_ACCESS_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_DEFAULT_REGION" fullname="$_SERVER[&quot;AWS_DEFAULT_REGION&quot;]" type="string" size="9" encoding="base64"><![CDATA[dXMtZWFzdC0x]]></property><property name="AWS_BUCKET" fullname="$_SERVER[&quot;AWS_BUCKET&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_USE_PATH_STYLE_ENDPOINT" fullname="$_SERVER[&quot;AWS_USE_PATH_STYLE_ENDPOINT&quot;]" type="string" size="5" encoding="base64"><![CDATA[ZmFsc2U=]]></property><property name="PUSHER_APP_ID" fullname="$_SERVER[&quot;PUSHER_APP_ID&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_KEY" fullname="$_SERVER[&quot;PUSHER_APP_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_SECRET" fullname="$_SERVER[&quot;PUSHER_APP_SECRET&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_CLUSTER" fullname="$_SERVER[&quot;PUSHER_APP_CLUSTER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bXQx]]></property><property name="MIX_PUSHER_APP_KEY" fullname="$_SERVER[&quot;MIX_PUSHER_APP_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="MIX_PUSHER_APP_CLUSTER" fullname="$_SERVER[&quot;MIX_PUSHER_APP_CLUSTER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bXQx]]></property><property name="PHP_SELF" fullname="$_SERVER[&quot;PHP_SELF&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="SCRIPT_NAME" fullname="$_SERVER[&quot;SCRIPT_NAME&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="SCRIPT_FILENAME" fullname="$_SERVER[&quot;SCRIPT_FILENAME&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="PATH_TRANSLATED" fullname="$_SERVER[&quot;PATH_TRANSLATED&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="DOCUMENT_ROOT" fullname="$_SERVER[&quot;DOCUMENT_ROOT&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="REQUEST_TIME_FLOAT" fullname="$_SERVER[&quot;REQUEST_TIME_FLOAT&quot;]" type="float"><![CDATA[1628267130.8935]]></property><property name="REQUEST_TIME" fullname="$_SERVER[&quot;REQUEST_TIME&quot;]" type="int"><![CDATA[1628267130]]></property><property name="argv" fullname="$_SERVER[&quot;argv&quot;]" type="array" children="1" numchildren="2"></property><property name="argc" fullname="$_SERVER[&quot;argc&quot;]" type="int"><![CDATA[2]]></property></property></response>
+
+[12836] <- context_get -i 19 -d 0 -c 2
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="19" context="2"></response>
+
+[12836] <- run -i 20
+[1816] Log opened at 2021-08-06 16:28:19
+[1816] I: Connecting to configured address/port: 127.0.0.1:9000.
+[1816] I: Connected to client. :-)
+[1816] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="1816" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[1816] <- feature_set -i 1 -n show_hidden -v 1
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[1816] <- feature_set -i 2 -n max_depth -v 1
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[1816] <- feature_set -i 3 -n max_children -v 100
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[1816] <- feature_set -i 4 -n extended_properties -v 1
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[1816] <- feature_set -i 5 -n notify_ok -v 1
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[1816] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[1816] <- stdout -i 7 -c 1
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[1816] <- status -i 8
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[1816] <- step_into -i 9
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[1816] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[1816] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[1816] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[1816] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[1816] <- stack_get -i 14
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[1816] <- run -i 15
+[1816] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[1816] <- run -i 16
+[1816] Log closed at 2021-08-06 16:28:20
+
+[12836] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="20" status="stopping" reason="ok"></response>
+
+[12836] Log closed at 2021-08-06 16:28:21
+
+[11608] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[11608] <- run -i 16
+[11608] Log closed at 2021-08-06 16:28:21
+
+[8804] Log opened at 2021-08-06 16:28:55
+[8804] I: Connecting to configured address/port: 127.0.0.1:9000.
+[8804] I: Connected to client. :-)
+[8804] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="8804" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[8804] <- feature_set -i 1 -n show_hidden -v 1
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[8804] <- feature_set -i 2 -n max_depth -v 1
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[8804] <- feature_set -i 3 -n max_children -v 100
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[8804] <- feature_set -i 4 -n extended_properties -v 1
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[8804] <- feature_set -i 5 -n notify_ok -v 1
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[8804] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[8804] <- stdout -i 7 -c 1
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[8804] <- status -i 8
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[8804] <- step_into -i 9
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[8804] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[8804] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[8804] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[8804] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[8804] <- stack_get -i 14
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[8804] <- run -i 15
+[8804] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[8804] <- run -i 16
+[8804] Log closed at 2021-08-06 16:28:57
+
+[16740] Log opened at 2021-08-09 06:33:56
+[16740] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16740] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16740] Log closed at 2021-08-09 06:33:57
+
+[16832] Log opened at 2021-08-09 06:34:04
+[16832] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16832] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16832] Log closed at 2021-08-09 06:34:05
+
+[11148] Log opened at 2021-08-09 06:36:27
+[11148] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11148] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11148] Log closed at 2021-08-09 06:36:28
+
+[7228] Log opened at 2021-08-09 06:43:02
+[7228] I: Connecting to configured address/port: 127.0.0.1:9000.
+[7228] E: Time-out connecting to client (Waited: 200 ms). :-(
+[7228] Log closed at 2021-08-09 06:43:03
+
+[12736] Log opened at 2021-08-09 06:43:04
+[12736] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12736] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12736] Log closed at 2021-08-09 06:43:04
+
+[3484] Log opened at 2021-08-09 06:43:15
+[3484] I: Connecting to configured address/port: 127.0.0.1:9000.
+[3484] E: Time-out connecting to client (Waited: 200 ms). :-(
+[3484] Log closed at 2021-08-09 06:43:16
+
+[620] Log opened at 2021-08-09 06:44:40
+[620] I: Connecting to configured address/port: 127.0.0.1:9000.
+[620] E: Time-out connecting to client (Waited: 200 ms). :-(
+[620] Log closed at 2021-08-09 06:44:40
+
+[14568] Log opened at 2021-08-09 07:12:37
+[14568] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14568] E: Time-out connecting to client (Waited: 200 ms). :-(
+[14568] Log closed at 2021-08-09 07:12:37
+
+[17240] Log opened at 2021-08-09 10:59:42
+[17240] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17240] I: Connected to client. :-)
+[17240] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="17240" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[17240] <- feature_set -i 1 -n show_hidden -v 1
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[17240] <- feature_set -i 2 -n max_depth -v 1
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[17240] <- feature_set -i 3 -n max_children -v 100
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[17240] <- feature_set -i 4 -n extended_properties -v 1
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[17240] <- feature_set -i 5 -n notify_ok -v 1
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[17240] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[17240] <- stdout -i 7 -c 1
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[17240] <- status -i 8
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[17240] <- step_into -i 9
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[17240] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[17240] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[17240] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[17240] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[17240] <- stack_get -i 14
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[17240] <- run -i 15
+[17240] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[17240] <- run -i 16
+[17240] Log closed at 2021-08-09 10:59:44
+
+[1740] Log opened at 2021-08-09 13:15:20
+[1740] I: Connecting to configured address/port: 127.0.0.1:9000.
+[1740] E: Time-out connecting to client (Waited: 200 ms). :-(
+[1740] Log closed at 2021-08-09 13:15:20
+
+[6992] Log opened at 2021-08-09 13:15:35
+[6992] I: Connecting to configured address/port: 127.0.0.1:9000.
+[6992] E: Time-out connecting to client (Waited: 200 ms). :-(
+[6992] Log closed at 2021-08-09 13:15:35
+
+[13768] Log opened at 2021-08-09 14:33:13
+[13768] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13768] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13768] Log closed at 2021-08-09 14:33:13
+
+[6412] Log opened at 2021-08-09 15:40:27
+[6412] I: Connecting to configured address/port: 127.0.0.1:9000.
+[6412] E: Time-out connecting to client (Waited: 200 ms). :-(
+[6412] Log closed at 2021-08-09 15:40:28
+
+[1888] Log opened at 2021-08-09 15:49:00
+[1888] I: Connecting to configured address/port: 127.0.0.1:9000.
+[1888] E: Time-out connecting to client (Waited: 200 ms). :-(
+[1888] Log closed at 2021-08-09 15:49:00
+
+[5576] Log opened at 2021-08-09 15:50:13
+[5576] I: Connecting to configured address/port: 127.0.0.1:9000.
+[5576] E: Time-out connecting to client (Waited: 200 ms). :-(
+[5576] Log closed at 2021-08-09 15:50:13
+
+[13240] Log opened at 2021-08-09 16:00:52
+[13240] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13240] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13240] Log closed at 2021-08-09 16:00:52
+
+[15916] Log opened at 2021-08-09 16:00:53
+[15916] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15916] E: Time-out connecting to client (Waited: 200 ms). :-(
+[15916] Log closed at 2021-08-09 16:00:53
+
+[17652] Log opened at 2021-08-09 16:01:11
+[17652] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17652] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17652] Log closed at 2021-08-09 16:01:11
+
+[9576] Log opened at 2021-08-09 16:01:57
+[9576] I: Connecting to configured address/port: 127.0.0.1:9000.
+[9576] E: Time-out connecting to client (Waited: 200 ms). :-(
+[9576] Log closed at 2021-08-09 16:01:57
+
+[17788] Log opened at 2021-08-09 16:01:58
+[17788] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17788] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17788] Log closed at 2021-08-09 16:01:59
+
+[14212] Log opened at 2021-08-09 16:02:14
+[14212] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14212] E: Time-out connecting to client (Waited: 200 ms). :-(
+[14212] Log closed at 2021-08-09 16:02:14
+
+[5232] Log opened at 2021-08-09 16:06:21
+[5232] I: Connecting to configured address/port: 127.0.0.1:9000.
+[5232] E: Time-out connecting to client (Waited: 200 ms). :-(
+[5232] Log closed at 2021-08-09 16:06:21
+
+[13488] Log opened at 2021-08-16 07:03:17
+[13488] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13488] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13488] Log closed at 2021-08-16 07:03:17
+
+[13784] Log opened at 2021-08-16 07:03:25
+[13784] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13784] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13784] Log closed at 2021-08-16 07:03:25
+
+[2064] Log opened at 2021-08-16 07:04:12
+[2064] I: Connecting to configured address/port: 127.0.0.1:9000.
+[2064] E: Time-out connecting to client (Waited: 200 ms). :-(
+[2064] Log closed at 2021-08-16 07:04:13
+
+[12496] Log opened at 2021-08-16 07:05:52
+[12496] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12496] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12496] Log closed at 2021-08-16 07:05:52
+
+[13928] Log opened at 2021-08-16 07:06:17
+[13928] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13928] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13928] Log closed at 2021-08-16 07:06:18
+
+[12308] Log opened at 2021-08-16 07:08:06
+[12308] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12308] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12308] Log closed at 2021-08-16 07:08:06
+
+[15268] Log opened at 2021-08-16 07:09:22
+[15268] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15268] E: Time-out connecting to client (Waited: 200 ms). :-(
+[15268] Log closed at 2021-08-16 07:09:22
+
+[6928] Log opened at 2021-08-16 07:43:06
+[6928] I: Connecting to configured address/port: 127.0.0.1:9000.
+[6928] E: Time-out connecting to client (Waited: 200 ms). :-(
+[6928] Log closed at 2021-08-16 07:43:06
+
+[11928] Log opened at 2021-08-16 07:43:07
+[11928] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11928] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11928] Log closed at 2021-08-16 07:43:08
+
+[2812] Log opened at 2021-08-16 07:43:21
+[2812] I: Connecting to configured address/port: 127.0.0.1:9000.
+[2812] E: Time-out connecting to client (Waited: 200 ms). :-(
+[2812] Log closed at 2021-08-16 07:43:21
+
+[13128] Log opened at 2021-08-16 07:43:55
+[13128] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13128] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13128] Log closed at 2021-08-16 07:43:55
+
+[14080] Log opened at 2021-08-16 13:45:51
+[14080] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14080] I: Connected to client. :-)
+[14080] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="14080" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[14080] <- feature_set -i 1 -n show_hidden -v 1
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[14080] <- feature_set -i 2 -n max_depth -v 1
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[14080] <- feature_set -i 3 -n max_children -v 100
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[14080] <- feature_set -i 4 -n extended_properties -v 1
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[14080] <- feature_set -i 5 -n notify_ok -v 1
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[14080] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[14080] <- stdout -i 7 -c 1
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[14080] <- status -i 8
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[14080] <- step_into -i 9
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[14080] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[14080] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[14080] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[14080] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[14080] <- stack_get -i 14
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[14080] <- run -i 15
+[14520] Log opened at 2021-08-16 13:45:53
+[14520] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14520] E: Time-out connecting to client (Waited: 200 ms). :-(
+[14520] Log closed at 2021-08-16 13:45:53
+
+[10044] Log opened at 2021-08-16 13:46:17
+[10044] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10044] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10044] Log closed at 2021-08-16 13:46:17
+
+[14080] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[14080] <- run -i 16
+[14080] Log closed at 2021-08-16 13:46:19
+
+[12592] Log opened at 2021-08-16 14:13:23
+[12592] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12592] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12592] Log closed at 2021-08-16 14:13:23
+
+[10656] Log opened at 2021-08-16 14:15:00
+[10656] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10656] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10656] Log closed at 2021-08-16 14:15:01
+
+[11776] Log opened at 2021-08-16 15:02:49
+[11776] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11776] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11776] Log closed at 2021-08-16 15:02:49
+
+[4284] Log opened at 2021-08-16 15:02:51
+[4284] I: Connecting to configured address/port: 127.0.0.1:9000.
+[4284] E: Time-out connecting to client (Waited: 200 ms). :-(
+[4284] Log closed at 2021-08-16 15:02:51
+
+[11780] Log opened at 2021-08-16 15:03:17
+[11780] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11780] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11780] Log closed at 2021-08-16 15:03:17
+
+[10740] Log opened at 2021-08-16 15:05:54
+[10740] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10740] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10740] Log closed at 2021-08-16 15:05:54
+
+[7236] Log opened at 2021-08-16 15:05:55
+[7236] I: Connecting to configured address/port: 127.0.0.1:9000.
+[7236] E: Time-out connecting to client (Waited: 200 ms). :-(
+[7236] Log closed at 2021-08-16 15:05:55
+
+[10492] Log opened at 2021-08-16 15:06:07
+[10492] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10492] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10492] Log closed at 2021-08-16 15:06:07
+
+[3456] Log opened at 2021-08-16 15:06:25
+[3456] I: Connecting to configured address/port: 127.0.0.1:9000.
+[3456] E: Time-out connecting to client (Waited: 200 ms). :-(
+[3456] Log closed at 2021-08-16 15:06:26
+
+[13804] Log opened at 2021-08-16 15:08:10
+[13804] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13804] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13804] Log closed at 2021-08-16 15:08:10
+
+[10980] Log opened at 2021-08-16 15:08:17
+[10980] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10980] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10980] Log closed at 2021-08-16 15:08:17
+
+[7980] Log opened at 2021-08-16 15:11:30
+[7980] I: Connecting to configured address/port: 127.0.0.1:9000.
+[7980] E: Time-out connecting to client (Waited: 200 ms). :-(
+[7980] Log closed at 2021-08-16 15:11:31
+
+[15044] Log opened at 2021-08-16 15:16:01
+[15044] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15044] E: Time-out connecting to client (Waited: 200 ms). :-(
+[15044] Log closed at 2021-08-16 15:16:01
+
+[13356] Log opened at 2021-08-16 15:16:38
+[13356] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13356] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13356] Log closed at 2021-08-16 15:16:38
+
+[11164] Log opened at 2021-08-16 15:16:45
+[11164] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11164] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11164] Log closed at 2021-08-16 15:16:45
+
+[2584] Log opened at 2021-08-16 16:41:33
+[2584] I: Connecting to configured address/port: 127.0.0.1:9000.
+[2584] I: Connected to client. :-)
+[2584] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="2584" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[2584] <- feature_set -i 1 -n show_hidden -v 1
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[2584] <- feature_set -i 2 -n max_depth -v 1
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[2584] <- feature_set -i 3 -n max_children -v 100
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[2584] <- feature_set -i 4 -n extended_properties -v 1
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[2584] <- feature_set -i 5 -n notify_ok -v 1
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[2584] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[2584] <- stdout -i 7 -c 1
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[2584] <- status -i 8
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[2584] <- step_into -i 9
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[2584] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[2584] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[2584] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[2584] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[2584] <- stack_get -i 14
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[2584] <- run -i 15
+[2584] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[2584] <- run -i 16
+[2584] Log closed at 2021-08-16 16:41:35
+
+[11628] Log opened at 2021-08-17 06:39:42
+[11628] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11628] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11628] Log closed at 2021-08-17 06:39:42
+
+[16224] Log opened at 2021-08-17 06:42:20
+[16224] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16224] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16224] Log closed at 2021-08-17 06:42:20
+
+[10616] Log opened at 2021-08-17 06:42:22
+[10616] I: Connecting to configured address/port: 127.0.0.1:9000.
+[10616] E: Time-out connecting to client (Waited: 200 ms). :-(
+[10616] Log closed at 2021-08-17 06:42:23
+
+[14516] Log opened at 2021-08-17 06:45:03
+[14516] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14516] E: Time-out connecting to client (Waited: 200 ms). :-(
+[14516] Log closed at 2021-08-17 06:45:03
+
+[16748] Log opened at 2021-08-17 06:56:45
+[16748] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16748] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16748] Log closed at 2021-08-17 06:56:45
+
+[14640] Log opened at 2021-08-17 07:08:15
+[14640] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14640] E: Time-out connecting to client (Waited: 200 ms). :-(
+[14640] Log closed at 2021-08-17 07:08:15
+
+[17104] Log opened at 2021-08-17 07:08:39
+[17104] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17104] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17104] Log closed at 2021-08-17 07:08:39
+
+[8120] Log opened at 2021-08-17 17:46:41
+[8120] I: Connecting to configured address/port: 127.0.0.1:9000.
+[8120] E: Time-out connecting to client (Waited: 200 ms). :-(
+[8120] Log closed at 2021-08-17 17:46:41
+
+[4004] Log opened at 2021-08-18 13:47:15
+[4004] I: Connecting to configured address/port: 127.0.0.1:9000.
+[4004] E: Time-out connecting to client (Waited: 200 ms). :-(
+[4004] Log closed at 2021-08-18 13:47:15
+
+[17420] Log opened at 2021-08-18 13:51:34
+[17420] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17420] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17420] Log closed at 2021-08-18 13:51:34
+
+[14124] Log opened at 2021-08-18 13:51:36
+[14124] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14124] E: Time-out connecting to client (Waited: 200 ms). :-(
+[14124] Log closed at 2021-08-18 13:51:36
+
+[2768] Log opened at 2021-08-18 13:53:39
+[2768] I: Connecting to configured address/port: 127.0.0.1:9000.
+[2768] E: Time-out connecting to client (Waited: 200 ms). :-(
+[2768] Log closed at 2021-08-18 13:53:39
+
+[1872] Log opened at 2021-08-18 13:56:45
+[1872] I: Connecting to configured address/port: 127.0.0.1:9000.
+[1872] E: Time-out connecting to client (Waited: 200 ms). :-(
+[1872] Log closed at 2021-08-18 13:56:45
+
+[17264] Log opened at 2021-08-19 01:11:52
+[17264] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17264] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17264] Log closed at 2021-08-19 01:11:52
+
+[11684] Log opened at 2021-08-19 01:14:38
+[11684] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11684] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11684] Log closed at 2021-08-19 01:14:39
+
+[9540] Log opened at 2021-08-19 01:25:06
+[9540] I: Connecting to configured address/port: 127.0.0.1:9000.
+[9540] E: Time-out connecting to client (Waited: 200 ms). :-(
+[9540] Log closed at 2021-08-19 01:25:06
+
+[12124] Log opened at 2021-08-19 12:28:24
+[12124] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12124] I: Connected to client. :-)
+[12124] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="12124" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[12124] <- feature_set -i 1 -n show_hidden -v 1
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[12124] <- feature_set -i 2 -n max_depth -v 1
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[12124] <- feature_set -i 3 -n max_children -v 100
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[12124] <- feature_set -i 4 -n extended_properties -v 1
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[12124] <- feature_set -i 5 -n notify_ok -v 1
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[12124] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[12124] <- stdout -i 7 -c 1
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[12124] <- status -i 8
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[12124] <- step_into -i 9
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[12124] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[12124] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[12124] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[12124] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[12124] <- stack_get -i 14
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[12124] <- run -i 15
+[12124] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[12124] <- run -i 16
+[12124] Log closed at 2021-08-19 12:28:26
+
+[15048] Log opened at 2021-08-19 12:30:17
+[15048] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15048] I: Connected to client. :-)
+[15048] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="15048" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[15048] <- feature_set -i 1 -n show_hidden -v 1
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[15048] <- feature_set -i 2 -n max_depth -v 1
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[15048] <- feature_set -i 3 -n max_children -v 100
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[15048] <- feature_set -i 4 -n extended_properties -v 1
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[15048] <- feature_set -i 5 -n notify_ok -v 1
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[15048] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[15048] <- stdout -i 7 -c 1
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[15048] <- status -i 8
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[15048] <- step_into -i 9
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[15048] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[15048] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[15048] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[15048] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[15048] <- stack_get -i 14
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[15048] <- run -i 15
+[9212] Log opened at 2021-08-19 12:30:19
+[9212] I: Connecting to configured address/port: 127.0.0.1:9000.
+[9212] I: Connected to client. :-)
+[9212] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="9212" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[9212] <- feature_set -i 1 -n show_hidden -v 1
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[9212] <- feature_set -i 2 -n max_depth -v 1
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[9212] <- feature_set -i 3 -n max_children -v 100
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[9212] <- feature_set -i 4 -n extended_properties -v 1
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[9212] <- feature_set -i 5 -n notify_ok -v 1
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[9212] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[9212] <- stdout -i 7 -c 1
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[9212] <- status -i 8
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[9212] <- step_into -i 9
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></xdebug:message></response>
+
+[9212] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[9212] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[9212] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[9212] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[9212] <- stack_get -i 14
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="14"><stack where="{main}" level="0" type="file" filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></stack></response>
+
+[9212] <- stack_get -i 15
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="15"><stack where="{main}" level="0" type="file" filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></stack></response>
+
+[9212] <- context_names -i 16
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="16"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[9212] <- context_get -i 17 -d 0 -c 0
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="17" context="0"></response>
+
+[9212] <- context_get -i 18 -d 0 -c 1
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="18" context="1"><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_ENV" fullname="$_ENV" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_FILES" fullname="$_FILES" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_GET" fullname="$_GET" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_POST" fullname="$_POST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_REQUEST" fullname="$_REQUEST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_SERVER" fullname="$_SERVER" type="array" children="1" numchildren="97" page="0" pagesize="100"><property name="NUMBER_OF_PROCESSORS" fullname="$_SERVER[&quot;NUMBER_OF_PROCESSORS&quot;]" type="string" size="1" encoding="base64"><![CDATA[NA==]]></property><property name="CommonProgramFiles" fullname="$_SERVER[&quot;CommonProgramFiles&quot;]" type="string" size="29" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xDb21tb24gRmlsZXM=]]></property><property name="JAVA_HOME" fullname="$_SERVER[&quot;JAVA_HOME&quot;]" type="string" size="34" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpyZTEuOC4wXzI3MQ==]]></property><property name="COMPUTERNAME" fullname="$_SERVER[&quot;COMPUTERNAME&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="OneDriveConsumer" fullname="$_SERVER[&quot;OneDriveConsumer&quot;]" type="string" size="23" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcT25lRHJpdmU=]]></property><property name="PROMPT" fullname="$_SERVER[&quot;PROMPT&quot;]" type="string" size="4" encoding="base64"><![CDATA[JFAkRw==]]></property><property name="__INTELLIJ_COMMAND_HISTFILE__" fullname="$_SERVER[&quot;__INTELLIJ_COMMAND_HISTFILE__&quot;]" type="string" size="83" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxSb2FtaW5nXEpldEJyYWluc1xQaHBTdG9ybTIwMjAuMVx0ZXJtaW5hbFxoaXN0b3J5XGhpc3RvcnktMjM=]]></property><property name="SystemDrive" fullname="$_SERVER[&quot;SystemDrive&quot;]" type="string" size="2" encoding="base64"><![CDATA[Qzo=]]></property><property name="LOGONSERVER" fullname="$_SERVER[&quot;LOGONSERVER&quot;]" type="string" size="17" encoding="base64"><![CDATA[XFxERVNLVE9QLU8zUkZIRUM=]]></property><property name="TEMP" fullname="$_SERVER[&quot;TEMP&quot;]" type="string" size="33" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxUZW1w]]></property><property name="TMP" fullname="$_SERVER[&quot;TMP&quot;]" type="string" size="33" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxUZW1w]]></property><property name="HOMEPATH" fullname="$_SERVER[&quot;HOMEPATH&quot;]" type="string" size="12" encoding="base64"><![CDATA[XFVzZXJzXG1haWxz]]></property><property name="PATHEXT" fullname="$_SERVER[&quot;PATHEXT&quot;]" type="string" size="53" encoding="base64"><![CDATA[LkNPTTsuRVhFOy5CQVQ7LkNNRDsuVkJTOy5WQkU7LkpTOy5KU0U7LldTRjsuV1NIOy5NU0M=]]></property><property name="IDEA_INITIAL_DIRECTORY" fullname="$_SERVER[&quot;IDEA_INITIAL_DIRECTORY&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xKZXRCcmFpbnNcUGhwU3Rvcm0gMjAyMC4xXGJpbg==]]></property><property name="ANDROID_HOME" fullname="$_SERVER[&quot;ANDROID_HOME&quot;]" type="string" size="40" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxBbmRyb2lkXFNkaw==]]></property><property name="USERNAME" fullname="$_SERVER[&quot;USERNAME&quot;]" type="string" size="5" encoding="base64"><![CDATA[bWFpbHM=]]></property><property name="ProgramFiles" fullname="$_SERVER[&quot;ProgramFiles&quot;]" type="string" size="16" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcw==]]></property><property name="USERDOMAIN_ROAMINGPROFILE" fullname="$_SERVER[&quot;USERDOMAIN_ROAMINGPROFILE&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="LOCALAPPDATA" fullname="$_SERVER[&quot;LOCALAPPDATA&quot;]" type="string" size="28" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbA==]]></property><property name="TERMINAL_EMULATOR" fullname="$_SERVER[&quot;TERMINAL_EMULATOR&quot;]" type="string" size="18" encoding="base64"><![CDATA[SmV0QnJhaW5zLUplZGlUZXJt]]></property><property name="PROCESSOR_IDENTIFIER" fullname="$_SERVER[&quot;PROCESSOR_IDENTIFIER&quot;]" type="string" size="48" encoding="base64"><![CDATA[QU1ENjQgRmFtaWx5IDE2IE1vZGVsIDUgU3RlcHBpbmcgMywgQXV0aGVudGljQU1E]]></property><property name="DriverData" fullname="$_SERVER[&quot;DriverData&quot;]" type="string" size="38" encoding="base64"><![CDATA[QzpcV2luZG93c1xTeXN0ZW0zMlxEcml2ZXJzXERyaXZlckRhdGE=]]></property><property name="APPDATA" fullname="$_SERVER[&quot;APPDATA&quot;]" type="string" size="30" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxSb2FtaW5n]]></property><property name="ALLUSERSPROFILE" fullname="$_SERVER[&quot;ALLUSERSPROFILE&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGE=]]></property><property name="USERDOMAIN" fullname="$_SERVER[&quot;USERDOMAIN&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="PROCESSOR_LEVEL" fullname="$_SERVER[&quot;PROCESSOR_LEVEL&quot;]" type="string" size="2" encoding="base64"><![CDATA[MTY=]]></property><property name="ProgramData" fullname="$_SERVER[&quot;ProgramData&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGE=]]></property><property name="ComSpec" fullname="$_SERVER[&quot;ComSpec&quot;]" type="string" size="27" encoding="base64"><![CDATA[QzpcV0lORE9XU1xzeXN0ZW0zMlxjbWQuZXhl]]></property><property name="PROCESSOR_ARCHITECTURE" fullname="$_SERVER[&quot;PROCESSOR_ARCHITECTURE&quot;]" type="string" size="5" encoding="base64"><![CDATA[QU1ENjQ=]]></property><property name="PUBLIC" fullname="$_SERVER[&quot;PUBLIC&quot;]" type="string" size="15" encoding="base64"><![CDATA[QzpcVXNlcnNcUHVibGlj]]></property><property name="SystemRoot" fullname="$_SERVER[&quot;SystemRoot&quot;]" type="string" size="10" encoding="base64"><![CDATA[QzpcV0lORE9XUw==]]></property><property name="PROCESSOR_REVISION" fullname="$_SERVER[&quot;PROCESSOR_REVISION&quot;]" type="string" size="4" encoding="base64"><![CDATA[MDUwMw==]]></property><property name="OneDrive" fullname="$_SERVER[&quot;OneDrive&quot;]" type="string" size="23" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcT25lRHJpdmU=]]></property><property name="PSModulePath" fullname="$_SERVER[&quot;PSModulePath&quot;]" type="string" size="93" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xXaW5kb3dzUG93ZXJTaGVsbFxNb2R1bGVzO0M6XFdJTkRPV1Ncc3lzdGVtMzJcV2luZG93c1Bvd2VyU2hlbGxcdjEuMFxNb2R1bGVz]]></property><property name="PATH" fullname="$_SERVER[&quot;PATH&quot;]" type="string" size="846" encoding="base64"><![CDATA[RTpcV29ya2luZ1xubXNfZWNvbW1cbm9kZV9tb2R1bGVzXC5iaW47QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxDb21tb24gRmlsZXNcT3JhY2xlXEphdmFcamF2YXBhdGg7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxOZXRTYXJhbmdcWG1hbmFnZXIgNlw7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxOZXRTYXJhbmdcWHNoZWxsIDZcO0M6XFdJTkRPV1Ncc3lzdGVtMzI7QzpcV0lORE9XUztDOlxXSU5ET1dTXFN5c3RlbTMyXFdiZW07QzpcV0lORE9XU1xTeXN0ZW0zMlxXaW5kb3dzUG93ZXJTaGVsbFx2MS4wXDtDOlxXSU5ET1dTXFN5c3RlbTMyXE9wZW5TU0hcO0M6XHhhbXBwXHBocDtDOlxQcm9ncmFtRGF0YVxDb21wb3NlclNldHVwXGJpbjtDOlxQcm9ncmFtIEZpbGVzXFRvcnRvaXNlU1ZOXGJpbjtDOlxQcm9ncmFtIEZpbGVzXFB1VFRZXDtDOlxQcm9ncmFtIEZpbGVzXEdpdFxjbWQ7QzpcUHJvZ3JhbSBGaWxlc1xub2RlanNcO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcTWljcm9zb2Z0XFdpbmRvd3NBcHBzO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcUm9hbWluZ1xDb21wb3Nlclx2ZW5kb3JcYmluO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcUHJvZ3JhbXNcTWljcm9zb2Z0IFZTIENvZGVcYmluO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcQW5kcm9pZFxTZGs7QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxBbmRyb2lkXFNka1xwbGF0Zm9ybS10b29scztDOlxQcm9ncmFtIEZpbGVzXEphdmFcanJlMS44LjBfMjcxXGJpbjs7QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxQcm9ncmFtc1xFbUVkaXRvcjtDOlxVc2Vyc1xtYWlsc1xBcHBEYXRhXFJvYW1pbmdcbnBt]]></property><property name="ProgramFiles(x86)" fullname="$_SERVER[&quot;ProgramFiles(x86)&quot;]" type="string" size="22" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KQ==]]></property><property name="USERPROFILE" fullname="$_SERVER[&quot;USERPROFILE&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHM=]]></property><property name="SESSIONNAME" fullname="$_SERVER[&quot;SESSIONNAME&quot;]" type="string" size="7" encoding="base64"><![CDATA[Q29uc29sZQ==]]></property><property name="windir" fullname="$_SERVER[&quot;windir&quot;]" type="string" size="10" encoding="base64"><![CDATA[QzpcV0lORE9XUw==]]></property><property name="ProgramW6432" fullname="$_SERVER[&quot;ProgramW6432&quot;]" type="string" size="16" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcw==]]></property><property name="OS" fullname="$_SERVER[&quot;OS&quot;]" type="string" size="10" encoding="base64"><![CDATA[V2luZG93c19OVA==]]></property><property name="CommonProgramFiles(x86)" fullname="$_SERVER[&quot;CommonProgramFiles(x86)&quot;]" type="string" size="35" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxDb21tb24gRmlsZXM=]]></property><property name="HOMEDRIVE" fullname="$_SERVER[&quot;HOMEDRIVE&quot;]" type="string" size="2" encoding="base64"><![CDATA[Qzo=]]></property><property name="CommonProgramW6432" fullname="$_SERVER[&quot;CommonProgramW6432&quot;]" type="string" size="29" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xDb21tb24gRmlsZXM=]]></property><property name="APP_NAME" fullname="$_SERVER[&quot;APP_NAME&quot;]" type="string" size="7" encoding="base64"><![CDATA[TmlpbWlzaQ==]]></property><property name="APP_ENV" fullname="$_SERVER[&quot;APP_ENV&quot;]" type="string" size="5" encoding="base64"><![CDATA[bG9jYWw=]]></property><property name="APP_KEY" fullname="$_SERVER[&quot;APP_KEY&quot;]" type="string" size="51" encoding="base64"><![CDATA[YmFzZTY0OlFybmUzMFFVSjJaOWxPc3NNNHpTM3VTZVlPckJSWVR2U2dYZjJMK2o0MWc9]]></property><property name="APP_DEBUG" fullname="$_SERVER[&quot;APP_DEBUG&quot;]" type="string" size="4" encoding="base64"><![CDATA[dHJ1ZQ==]]></property><property name="APP_URL" fullname="$_SERVER[&quot;APP_URL&quot;]" type="string" size="16" encoding="base64"><![CDATA[aHR0cDovL2xvY2FsaG9zdA==]]></property><property name="LOG_CHANNEL" fullname="$_SERVER[&quot;LOG_CHANNEL&quot;]" type="string" size="5" encoding="base64"><![CDATA[c3RhY2s=]]></property><property name="LOG_LEVEL" fullname="$_SERVER[&quot;LOG_LEVEL&quot;]" type="string" size="5" encoding="base64"><![CDATA[ZGVidWc=]]></property><property name="DB_CONNECTION" fullname="$_SERVER[&quot;DB_CONNECTION&quot;]" type="string" size="5" encoding="base64"><![CDATA[bXlzcWw=]]></property><property name="DB_HOST" fullname="$_SERVER[&quot;DB_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="DB_PORT" fullname="$_SERVER[&quot;DB_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[MzMwNg==]]></property><property name="DB_DATABASE" fullname="$_SERVER[&quot;DB_DATABASE&quot;]" type="string" size="6" encoding="base64"><![CDATA[ZGJfbm1z]]></property><property name="DB_USERNAME" fullname="$_SERVER[&quot;DB_USERNAME&quot;]" type="string" size="4" encoding="base64"><![CDATA[cm9vdA==]]></property><property name="DB_PASSWORD" fullname="$_SERVER[&quot;DB_PASSWORD&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="BROADCAST_DRIVER" fullname="$_SERVER[&quot;BROADCAST_DRIVER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bG9n]]></property><property name="CACHE_DRIVER" fullname="$_SERVER[&quot;CACHE_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[ZmlsZQ==]]></property><property name="FILESYSTEM_DRIVER" fullname="$_SERVER[&quot;FILESYSTEM_DRIVER&quot;]" type="string" size="5" encoding="base64"><![CDATA[bG9jYWw=]]></property><property name="QUEUE_CONNECTION" fullname="$_SERVER[&quot;QUEUE_CONNECTION&quot;]" type="string" size="4" encoding="base64"><![CDATA[c3luYw==]]></property><property name="SESSION_DRIVER" fullname="$_SERVER[&quot;SESSION_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[ZmlsZQ==]]></property><property name="SESSION_LIFETIME" fullname="$_SERVER[&quot;SESSION_LIFETIME&quot;]" type="string" size="3" encoding="base64"><![CDATA[MTIw]]></property><property name="MEMCACHED_HOST" fullname="$_SERVER[&quot;MEMCACHED_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="REDIS_HOST" fullname="$_SERVER[&quot;REDIS_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="REDIS_PASSWORD" fullname="$_SERVER[&quot;REDIS_PASSWORD&quot;]" type="string" size="4" encoding="base64"><![CDATA[bnVsbA==]]></property><property name="REDIS_PORT" fullname="$_SERVER[&quot;REDIS_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[NjM3OQ==]]></property><property name="MAIL_DRIVER" fullname="$_SERVER[&quot;MAIL_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[c210cA==]]></property><property name="MAIL_HOST" fullname="$_SERVER[&quot;MAIL_HOST&quot;]" type="string" size="24" encoding="base64"><![CDATA[c210cG91dC5zZWN1cmVzZXJ2ZXIubmV0]]></property><property name="MAIL_PORT" fullname="$_SERVER[&quot;MAIL_PORT&quot;]" type="string" size="3" encoding="base64"><![CDATA[NDY1]]></property><property name="MAIL_USERNAME" fullname="$_SERVER[&quot;MAIL_USERNAME&quot;]" type="string" size="16" encoding="base64"><![CDATA[bmV3c0BuaWltaXNpLmNvbQ==]]></property><property name="MAIL_PASSWORD" fullname="$_SERVER[&quot;MAIL_PASSWORD&quot;]" type="string" size="9" encoding="base64"><![CDATA[TjExTTFTMX4h]]></property><property name="MAIL_ENCRYPTION" fullname="$_SERVER[&quot;MAIL_ENCRYPTION&quot;]" type="string" size="3" encoding="base64"><![CDATA[c3Ns]]></property><property name="MAIL_FROM_ADDRESS" fullname="$_SERVER[&quot;MAIL_FROM_ADDRESS&quot;]" type="string" size="16" encoding="base64"><![CDATA[bmV3c0BuaWltaXNpLmNvbQ==]]></property><property name="MAIL_FROM_NAME" fullname="$_SERVER[&quot;MAIL_FROM_NAME&quot;]" type="string" size="7" encoding="base64"><![CDATA[TmlpbWlzaQ==]]></property><property name="AWS_ACCESS_KEY_ID" fullname="$_SERVER[&quot;AWS_ACCESS_KEY_ID&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_SECRET_ACCESS_KEY" fullname="$_SERVER[&quot;AWS_SECRET_ACCESS_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_DEFAULT_REGION" fullname="$_SERVER[&quot;AWS_DEFAULT_REGION&quot;]" type="string" size="9" encoding="base64"><![CDATA[dXMtZWFzdC0x]]></property><property name="AWS_BUCKET" fullname="$_SERVER[&quot;AWS_BUCKET&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_USE_PATH_STYLE_ENDPOINT" fullname="$_SERVER[&quot;AWS_USE_PATH_STYLE_ENDPOINT&quot;]" type="string" size="5" encoding="base64"><![CDATA[ZmFsc2U=]]></property><property name="PUSHER_APP_ID" fullname="$_SERVER[&quot;PUSHER_APP_ID&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_KEY" fullname="$_SERVER[&quot;PUSHER_APP_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_SECRET" fullname="$_SERVER[&quot;PUSHER_APP_SECRET&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_CLUSTER" fullname="$_SERVER[&quot;PUSHER_APP_CLUSTER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bXQx]]></property><property name="MIX_PUSHER_APP_KEY" fullname="$_SERVER[&quot;MIX_PUSHER_APP_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="MIX_PUSHER_APP_CLUSTER" fullname="$_SERVER[&quot;MIX_PUSHER_APP_CLUSTER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bXQx]]></property><property name="FACEBOOK_ID" fullname="$_SERVER[&quot;FACEBOOK_ID&quot;]" type="string" size="15" encoding="base64"><![CDATA[MzgxMjU1NDQ2OTE2MDA3]]></property><property name="FACEBOOK_SECRET" fullname="$_SERVER[&quot;FACEBOOK_SECRET&quot;]" type="string" size="32" encoding="base64"><![CDATA[NGRjNTNiNzhkNjdmYWY2ODg1NjFlNThkOGRlYjRiY2E=]]></property><property name="PHP_SELF" fullname="$_SERVER[&quot;PHP_SELF&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="SCRIPT_NAME" fullname="$_SERVER[&quot;SCRIPT_NAME&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="SCRIPT_FILENAME" fullname="$_SERVER[&quot;SCRIPT_FILENAME&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="PATH_TRANSLATED" fullname="$_SERVER[&quot;PATH_TRANSLATED&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="DOCUMENT_ROOT" fullname="$_SERVER[&quot;DOCUMENT_ROOT&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="REQUEST_TIME_FLOAT" fullname="$_SERVER[&quot;REQUEST_TIME_FLOAT&quot;]" type="float"><![CDATA[1629376219.5913]]></property><property name="REQUEST_TIME" fullname="$_SERVER[&quot;REQUEST_TIME&quot;]" type="int"><![CDATA[1629376219]]></property><property name="argv" fullname="$_SERVER[&quot;argv&quot;]" type="array" children="1" numchildren="2"></property><property name="argc" fullname="$_SERVER[&quot;argc&quot;]" type="int"><![CDATA[2]]></property></property></response>
+
+[9212] <- context_get -i 19 -d 0 -c 2
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="19" context="2"></response>
+
+[9212] <- run -i 20
+[5928] Log opened at 2021-08-19 12:30:47
+[5928] I: Connecting to configured address/port: 127.0.0.1:9000.
+[5928] E: Time-out connecting to client (Waited: 200 ms). :-(
+[5928] Log closed at 2021-08-19 12:30:47
+
+[9212] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="20" status="stopping" reason="ok"></response>
+
+[9212] Log closed at 2021-08-19 12:30:49
+
+[15048] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[15048] <- run -i 16
+[15048] Log closed at 2021-08-19 12:30:50
+
+[16600] Log opened at 2021-08-19 12:33:36
+[16600] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16600] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16600] Log closed at 2021-08-19 12:33:36
+
+[15048] Log opened at 2021-08-19 12:33:42
+[15048] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15048] E: Time-out connecting to client (Waited: 200 ms). :-(
+[15048] Log closed at 2021-08-19 12:33:42
+
+[16284] Log opened at 2021-08-19 12:39:40
+[16284] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16284] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16284] Log closed at 2021-08-19 12:39:40
+
+[17644] Log opened at 2021-08-19 12:41:18
+[17644] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17644] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17644] Log closed at 2021-08-19 12:41:19
+
+[13676] Log opened at 2021-08-20 02:09:29
+[13676] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13676] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13676] Log closed at 2021-08-20 02:09:30
+
+[17384] Log opened at 2021-08-20 02:09:36
+[17384] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17384] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17384] Log closed at 2021-08-20 02:09:36
+
+[15932] Log opened at 2021-08-20 02:11:31
+[15932] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15932] E: Time-out connecting to client (Waited: 200 ms). :-(
+[15932] Log closed at 2021-08-20 02:11:31
+
+[17940] Log opened at 2021-08-20 02:11:52
+[17940] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17940] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17940] Log closed at 2021-08-20 02:11:53
+
+[12672] Log opened at 2021-08-20 02:11:54
+[12672] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12672] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12672] Log closed at 2021-08-20 02:11:54
+
+[17760] Log opened at 2021-08-20 02:12:05
+[17760] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17760] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17760] Log closed at 2021-08-20 02:12:06
+
+[17992] Log opened at 2021-08-20 02:12:48
+[17992] I: Connecting to configured address/port: 127.0.0.1:9000.
+[17992] E: Time-out connecting to client (Waited: 200 ms). :-(
+[17992] Log closed at 2021-08-20 02:12:49
+
+[4584] Log opened at 2021-08-20 02:12:50
+[4584] I: Connecting to configured address/port: 127.0.0.1:9000.
+[4584] E: Time-out connecting to client (Waited: 200 ms). :-(
+[4584] Log closed at 2021-08-20 02:12:50
+
+[15012] Log opened at 2021-08-20 02:13:00
+[15012] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15012] E: Time-out connecting to client (Waited: 200 ms). :-(
+[15012] Log closed at 2021-08-20 02:13:00
+
+[1308] Log opened at 2021-08-20 02:13:13
+[1308] I: Connecting to configured address/port: 127.0.0.1:9000.
+[1308] E: Time-out connecting to client (Waited: 200 ms). :-(
+[1308] Log closed at 2021-08-20 02:13:13
+
+[18776] Log opened at 2021-08-20 02:13:14
+[18776] I: Connecting to configured address/port: 127.0.0.1:9000.
+[18776] E: Time-out connecting to client (Waited: 200 ms). :-(
+[18776] Log closed at 2021-08-20 02:13:15
+
+[20504] Log opened at 2021-08-20 02:13:24
+[20504] I: Connecting to configured address/port: 127.0.0.1:9000.
+[20504] E: Time-out connecting to client (Waited: 200 ms). :-(
+[20504] Log closed at 2021-08-20 02:13:24
+
+[15000] Log opened at 2021-08-24 06:11:07
+[15000] I: Connecting to configured address/port: 127.0.0.1:9000.
+[15000] E: Time-out connecting to client (Waited: 200 ms). :-(
+[15000] Log closed at 2021-08-24 06:11:07
+
+[9828] Log opened at 2021-08-25 15:02:38
+[9828] I: Connecting to configured address/port: 127.0.0.1:9000.
+[9828] E: Time-out connecting to client (Waited: 200 ms). :-(
+[9828] Log closed at 2021-08-25 15:02:39
+
+[13320] Log opened at 2021-08-31 01:50:33
+[13320] I: Connecting to configured address/port: 127.0.0.1:9000.
+[13320] E: Time-out connecting to client (Waited: 200 ms). :-(
+[13320] Log closed at 2021-08-31 01:50:33
+
+[18116] Log opened at 2021-08-31 01:50:42
+[18116] I: Connecting to configured address/port: 127.0.0.1:9000.
+[18116] E: Time-out connecting to client (Waited: 200 ms). :-(
+[18116] Log closed at 2021-08-31 01:50:42
+
+[12696] Log opened at 2021-08-31 01:53:19
+[12696] I: Connecting to configured address/port: 127.0.0.1:9000.
+[12696] E: Time-out connecting to client (Waited: 200 ms). :-(
+[12696] Log closed at 2021-08-31 01:53:19
+
+[11920] Log opened at 2021-08-31 02:53:16
+[11920] I: Connecting to configured address/port: 127.0.0.1:9000.
+[11920] E: Time-out connecting to client (Waited: 200 ms). :-(
+[11920] Log closed at 2021-08-31 02:53:16
+
+[16480] Log opened at 2021-09-01 02:18:04
+[16480] I: Connecting to configured address/port: 127.0.0.1:9000.
+[16480] E: Time-out connecting to client (Waited: 200 ms). :-(
+[16480] Log closed at 2021-09-01 02:18:04
+
+[14868] Log opened at 2021-09-01 02:21:10
+[14868] I: Connecting to configured address/port: 127.0.0.1:9000.
+[14868] E: Time-out connecting to client (Waited: 200 ms). :-(
+[14868] Log closed at 2021-09-01 02:21:10
+
+[18884] Log opened at 2021-09-01 02:30:09
+[18884] I: Connecting to configured address/port: 127.0.0.1:9000.
+[18884] E: Time-out connecting to client (Waited: 200 ms). :-(
+[18884] Log closed at 2021-09-01 02:30:09
+
+[22608] Log opened at 2021-09-01 03:33:37
+[22608] I: Connecting to configured address/port: 127.0.0.1:9000.
+[22608] E: Time-out connecting to client (Waited: 200 ms). :-(
+[22608] Log closed at 2021-09-01 03:33:38
+
+[18616] Log opened at 2021-09-02 08:36:53
+[18616] I: Connecting to configured address/port: 127.0.0.1:9000.
+[18616] I: Connected to client. :-)
+[18616] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="18616" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[18616] <- feature_set -i 1 -n show_hidden -v 1
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[18616] <- feature_set -i 2 -n max_depth -v 1
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[18616] <- feature_set -i 3 -n max_children -v 100
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[18616] <- feature_set -i 4 -n extended_properties -v 1
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[18616] <- feature_set -i 5 -n notify_ok -v 1
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[18616] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[18616] <- stdout -i 7 -c 1
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[18616] <- status -i 8
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[18616] <- step_into -i 9
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[18616] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[18616] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[18616] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[18616] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[18616] <- breakpoint_set -i 14 -t line -f file://E:/Working/nms_ecomm/app/Http/Controllers/Admin/ProductController.php -n 132
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="14" id="186160001" resolved="unresolved"></response>
+
+[18616] <- stack_get -i 15
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="15"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[18616] <- run -i 16
+[19236] Log opened at 2021-09-02 08:37:03
+[19236] I: Connecting to configured address/port: 127.0.0.1:9000.
+[19236] I: Connected to client. :-)
+[19236] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="19236" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[19236] <- feature_set -i 1 -n show_hidden -v 1
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[19236] <- feature_set -i 2 -n max_depth -v 1
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[19236] <- feature_set -i 3 -n max_children -v 100
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[19236] <- feature_set -i 4 -n extended_properties -v 1
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[19236] <- feature_set -i 5 -n notify_ok -v 1
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[19236] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[19236] <- stdout -i 7 -c 1
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[19236] <- status -i 8
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[19236] <- step_into -i 9
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></xdebug:message></response>
+
+[19236] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[19236] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[19236] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[19236] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[19236] <- breakpoint_set -i 14 -t line -f file://E:/Working/nms_ecomm/app/Http/Controllers/Admin/ProductController.php -n 132
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="14" id="192360001" resolved="unresolved"></response>
+
+[19236] <- stack_get -i 15
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="15"><stack where="{main}" level="0" type="file" filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></stack></response>
+
+[19236] <- stack_get -i 16
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="16"><stack where="{main}" level="0" type="file" filename="file:///C:/ProgramData/ComposerSetup/bin/composer.phar" lineno="14"></stack></response>
+
+[19236] <- context_names -i 17
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="17"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[19236] <- context_get -i 18 -d 0 -c 0
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="18" context="0"></response>
+
+[19236] <- context_get -i 19 -d 0 -c 1
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="19" context="1"><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_ENV" fullname="$_ENV" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_FILES" fullname="$_FILES" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_GET" fullname="$_GET" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_POST" fullname="$_POST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_REQUEST" fullname="$_REQUEST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_SERVER" fullname="$_SERVER" type="array" children="1" numchildren="97" page="0" pagesize="100"><property name="NUMBER_OF_PROCESSORS" fullname="$_SERVER[&quot;NUMBER_OF_PROCESSORS&quot;]" type="string" size="1" encoding="base64"><![CDATA[NA==]]></property><property name="CommonProgramFiles" fullname="$_SERVER[&quot;CommonProgramFiles&quot;]" type="string" size="29" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xDb21tb24gRmlsZXM=]]></property><property name="JAVA_HOME" fullname="$_SERVER[&quot;JAVA_HOME&quot;]" type="string" size="34" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpyZTEuOC4wXzI3MQ==]]></property><property name="COMPUTERNAME" fullname="$_SERVER[&quot;COMPUTERNAME&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="OneDriveConsumer" fullname="$_SERVER[&quot;OneDriveConsumer&quot;]" type="string" size="23" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcT25lRHJpdmU=]]></property><property name="PROMPT" fullname="$_SERVER[&quot;PROMPT&quot;]" type="string" size="4" encoding="base64"><![CDATA[JFAkRw==]]></property><property name="__INTELLIJ_COMMAND_HISTFILE__" fullname="$_SERVER[&quot;__INTELLIJ_COMMAND_HISTFILE__&quot;]" type="string" size="83" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxSb2FtaW5nXEpldEJyYWluc1xQaHBTdG9ybTIwMjAuMVx0ZXJtaW5hbFxoaXN0b3J5XGhpc3RvcnktMjM=]]></property><property name="SystemDrive" fullname="$_SERVER[&quot;SystemDrive&quot;]" type="string" size="2" encoding="base64"><![CDATA[Qzo=]]></property><property name="LOGONSERVER" fullname="$_SERVER[&quot;LOGONSERVER&quot;]" type="string" size="17" encoding="base64"><![CDATA[XFxERVNLVE9QLU8zUkZIRUM=]]></property><property name="TEMP" fullname="$_SERVER[&quot;TEMP&quot;]" type="string" size="33" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxUZW1w]]></property><property name="TMP" fullname="$_SERVER[&quot;TMP&quot;]" type="string" size="33" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxUZW1w]]></property><property name="HOMEPATH" fullname="$_SERVER[&quot;HOMEPATH&quot;]" type="string" size="12" encoding="base64"><![CDATA[XFVzZXJzXG1haWxz]]></property><property name="PATHEXT" fullname="$_SERVER[&quot;PATHEXT&quot;]" type="string" size="53" encoding="base64"><![CDATA[LkNPTTsuRVhFOy5CQVQ7LkNNRDsuVkJTOy5WQkU7LkpTOy5KU0U7LldTRjsuV1NIOy5NU0M=]]></property><property name="IDEA_INITIAL_DIRECTORY" fullname="$_SERVER[&quot;IDEA_INITIAL_DIRECTORY&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xKZXRCcmFpbnNcUGhwU3Rvcm0gMjAyMC4xXGJpbg==]]></property><property name="ANDROID_HOME" fullname="$_SERVER[&quot;ANDROID_HOME&quot;]" type="string" size="40" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxBbmRyb2lkXFNkaw==]]></property><property name="USERNAME" fullname="$_SERVER[&quot;USERNAME&quot;]" type="string" size="5" encoding="base64"><![CDATA[bWFpbHM=]]></property><property name="ProgramFiles" fullname="$_SERVER[&quot;ProgramFiles&quot;]" type="string" size="16" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcw==]]></property><property name="USERDOMAIN_ROAMINGPROFILE" fullname="$_SERVER[&quot;USERDOMAIN_ROAMINGPROFILE&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="LOCALAPPDATA" fullname="$_SERVER[&quot;LOCALAPPDATA&quot;]" type="string" size="28" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbA==]]></property><property name="TERMINAL_EMULATOR" fullname="$_SERVER[&quot;TERMINAL_EMULATOR&quot;]" type="string" size="18" encoding="base64"><![CDATA[SmV0QnJhaW5zLUplZGlUZXJt]]></property><property name="PROCESSOR_IDENTIFIER" fullname="$_SERVER[&quot;PROCESSOR_IDENTIFIER&quot;]" type="string" size="48" encoding="base64"><![CDATA[QU1ENjQgRmFtaWx5IDE2IE1vZGVsIDUgU3RlcHBpbmcgMywgQXV0aGVudGljQU1E]]></property><property name="DriverData" fullname="$_SERVER[&quot;DriverData&quot;]" type="string" size="38" encoding="base64"><![CDATA[QzpcV2luZG93c1xTeXN0ZW0zMlxEcml2ZXJzXERyaXZlckRhdGE=]]></property><property name="APPDATA" fullname="$_SERVER[&quot;APPDATA&quot;]" type="string" size="30" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxSb2FtaW5n]]></property><property name="ALLUSERSPROFILE" fullname="$_SERVER[&quot;ALLUSERSPROFILE&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGE=]]></property><property name="USERDOMAIN" fullname="$_SERVER[&quot;USERDOMAIN&quot;]" type="string" size="15" encoding="base64"><![CDATA[REVTS1RPUC1PM1JGSEVD]]></property><property name="PROCESSOR_LEVEL" fullname="$_SERVER[&quot;PROCESSOR_LEVEL&quot;]" type="string" size="2" encoding="base64"><![CDATA[MTY=]]></property><property name="ProgramData" fullname="$_SERVER[&quot;ProgramData&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGE=]]></property><property name="ComSpec" fullname="$_SERVER[&quot;ComSpec&quot;]" type="string" size="27" encoding="base64"><![CDATA[QzpcV0lORE9XU1xzeXN0ZW0zMlxjbWQuZXhl]]></property><property name="PROCESSOR_ARCHITECTURE" fullname="$_SERVER[&quot;PROCESSOR_ARCHITECTURE&quot;]" type="string" size="5" encoding="base64"><![CDATA[QU1ENjQ=]]></property><property name="PUBLIC" fullname="$_SERVER[&quot;PUBLIC&quot;]" type="string" size="15" encoding="base64"><![CDATA[QzpcVXNlcnNcUHVibGlj]]></property><property name="SystemRoot" fullname="$_SERVER[&quot;SystemRoot&quot;]" type="string" size="10" encoding="base64"><![CDATA[QzpcV0lORE9XUw==]]></property><property name="PROCESSOR_REVISION" fullname="$_SERVER[&quot;PROCESSOR_REVISION&quot;]" type="string" size="4" encoding="base64"><![CDATA[MDUwMw==]]></property><property name="OneDrive" fullname="$_SERVER[&quot;OneDrive&quot;]" type="string" size="23" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHNcT25lRHJpdmU=]]></property><property name="PSModulePath" fullname="$_SERVER[&quot;PSModulePath&quot;]" type="string" size="93" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xXaW5kb3dzUG93ZXJTaGVsbFxNb2R1bGVzO0M6XFdJTkRPV1Ncc3lzdGVtMzJcV2luZG93c1Bvd2VyU2hlbGxcdjEuMFxNb2R1bGVz]]></property><property name="PATH" fullname="$_SERVER[&quot;PATH&quot;]" type="string" size="846" encoding="base64"><![CDATA[RTpcV29ya2luZ1xubXNfZWNvbW1cbm9kZV9tb2R1bGVzXC5iaW47QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxDb21tb24gRmlsZXNcT3JhY2xlXEphdmFcamF2YXBhdGg7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxOZXRTYXJhbmdcWG1hbmFnZXIgNlw7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxOZXRTYXJhbmdcWHNoZWxsIDZcO0M6XFdJTkRPV1Ncc3lzdGVtMzI7QzpcV0lORE9XUztDOlxXSU5ET1dTXFN5c3RlbTMyXFdiZW07QzpcV0lORE9XU1xTeXN0ZW0zMlxXaW5kb3dzUG93ZXJTaGVsbFx2MS4wXDtDOlxXSU5ET1dTXFN5c3RlbTMyXE9wZW5TU0hcO0M6XHhhbXBwXHBocDtDOlxQcm9ncmFtRGF0YVxDb21wb3NlclNldHVwXGJpbjtDOlxQcm9ncmFtIEZpbGVzXFRvcnRvaXNlU1ZOXGJpbjtDOlxQcm9ncmFtIEZpbGVzXFB1VFRZXDtDOlxQcm9ncmFtIEZpbGVzXEdpdFxjbWQ7QzpcUHJvZ3JhbSBGaWxlc1xub2RlanNcO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcTWljcm9zb2Z0XFdpbmRvd3NBcHBzO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcUm9hbWluZ1xDb21wb3Nlclx2ZW5kb3JcYmluO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcUHJvZ3JhbXNcTWljcm9zb2Z0IFZTIENvZGVcYmluO0M6XFVzZXJzXG1haWxzXEFwcERhdGFcTG9jYWxcQW5kcm9pZFxTZGs7QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxBbmRyb2lkXFNka1xwbGF0Zm9ybS10b29scztDOlxQcm9ncmFtIEZpbGVzXEphdmFcanJlMS44LjBfMjcxXGJpbjs7QzpcVXNlcnNcbWFpbHNcQXBwRGF0YVxMb2NhbFxQcm9ncmFtc1xFbUVkaXRvcjtDOlxVc2Vyc1xtYWlsc1xBcHBEYXRhXFJvYW1pbmdcbnBt]]></property><property name="ProgramFiles(x86)" fullname="$_SERVER[&quot;ProgramFiles(x86)&quot;]" type="string" size="22" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KQ==]]></property><property name="USERPROFILE" fullname="$_SERVER[&quot;USERPROFILE&quot;]" type="string" size="14" encoding="base64"><![CDATA[QzpcVXNlcnNcbWFpbHM=]]></property><property name="SESSIONNAME" fullname="$_SERVER[&quot;SESSIONNAME&quot;]" type="string" size="7" encoding="base64"><![CDATA[Q29uc29sZQ==]]></property><property name="windir" fullname="$_SERVER[&quot;windir&quot;]" type="string" size="10" encoding="base64"><![CDATA[QzpcV0lORE9XUw==]]></property><property name="ProgramW6432" fullname="$_SERVER[&quot;ProgramW6432&quot;]" type="string" size="16" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcw==]]></property><property name="OS" fullname="$_SERVER[&quot;OS&quot;]" type="string" size="10" encoding="base64"><![CDATA[V2luZG93c19OVA==]]></property><property name="CommonProgramFiles(x86)" fullname="$_SERVER[&quot;CommonProgramFiles(x86)&quot;]" type="string" size="35" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxDb21tb24gRmlsZXM=]]></property><property name="HOMEDRIVE" fullname="$_SERVER[&quot;HOMEDRIVE&quot;]" type="string" size="2" encoding="base64"><![CDATA[Qzo=]]></property><property name="CommonProgramW6432" fullname="$_SERVER[&quot;CommonProgramW6432&quot;]" type="string" size="29" encoding="base64"><![CDATA[QzpcUHJvZ3JhbSBGaWxlc1xDb21tb24gRmlsZXM=]]></property><property name="APP_NAME" fullname="$_SERVER[&quot;APP_NAME&quot;]" type="string" size="7" encoding="base64"><![CDATA[TmlpbWlzaQ==]]></property><property name="APP_ENV" fullname="$_SERVER[&quot;APP_ENV&quot;]" type="string" size="5" encoding="base64"><![CDATA[bG9jYWw=]]></property><property name="APP_KEY" fullname="$_SERVER[&quot;APP_KEY&quot;]" type="string" size="51" encoding="base64"><![CDATA[YmFzZTY0OlFybmUzMFFVSjJaOWxPc3NNNHpTM3VTZVlPckJSWVR2U2dYZjJMK2o0MWc9]]></property><property name="APP_DEBUG" fullname="$_SERVER[&quot;APP_DEBUG&quot;]" type="string" size="4" encoding="base64"><![CDATA[dHJ1ZQ==]]></property><property name="APP_URL" fullname="$_SERVER[&quot;APP_URL&quot;]" type="string" size="16" encoding="base64"><![CDATA[aHR0cDovL2xvY2FsaG9zdA==]]></property><property name="LOG_CHANNEL" fullname="$_SERVER[&quot;LOG_CHANNEL&quot;]" type="string" size="5" encoding="base64"><![CDATA[c3RhY2s=]]></property><property name="LOG_LEVEL" fullname="$_SERVER[&quot;LOG_LEVEL&quot;]" type="string" size="5" encoding="base64"><![CDATA[ZGVidWc=]]></property><property name="DB_CONNECTION" fullname="$_SERVER[&quot;DB_CONNECTION&quot;]" type="string" size="5" encoding="base64"><![CDATA[bXlzcWw=]]></property><property name="DB_HOST" fullname="$_SERVER[&quot;DB_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="DB_PORT" fullname="$_SERVER[&quot;DB_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[MzMwNg==]]></property><property name="DB_DATABASE" fullname="$_SERVER[&quot;DB_DATABASE&quot;]" type="string" size="6" encoding="base64"><![CDATA[ZGJfbm1z]]></property><property name="DB_USERNAME" fullname="$_SERVER[&quot;DB_USERNAME&quot;]" type="string" size="4" encoding="base64"><![CDATA[cm9vdA==]]></property><property name="DB_PASSWORD" fullname="$_SERVER[&quot;DB_PASSWORD&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="BROADCAST_DRIVER" fullname="$_SERVER[&quot;BROADCAST_DRIVER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bG9n]]></property><property name="CACHE_DRIVER" fullname="$_SERVER[&quot;CACHE_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[ZmlsZQ==]]></property><property name="FILESYSTEM_DRIVER" fullname="$_SERVER[&quot;FILESYSTEM_DRIVER&quot;]" type="string" size="5" encoding="base64"><![CDATA[bG9jYWw=]]></property><property name="QUEUE_CONNECTION" fullname="$_SERVER[&quot;QUEUE_CONNECTION&quot;]" type="string" size="4" encoding="base64"><![CDATA[c3luYw==]]></property><property name="SESSION_DRIVER" fullname="$_SERVER[&quot;SESSION_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[ZmlsZQ==]]></property><property name="SESSION_LIFETIME" fullname="$_SERVER[&quot;SESSION_LIFETIME&quot;]" type="string" size="3" encoding="base64"><![CDATA[MTIw]]></property><property name="MEMCACHED_HOST" fullname="$_SERVER[&quot;MEMCACHED_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="REDIS_HOST" fullname="$_SERVER[&quot;REDIS_HOST&quot;]" type="string" size="9" encoding="base64"><![CDATA[MTI3LjAuMC4x]]></property><property name="REDIS_PASSWORD" fullname="$_SERVER[&quot;REDIS_PASSWORD&quot;]" type="string" size="4" encoding="base64"><![CDATA[bnVsbA==]]></property><property name="REDIS_PORT" fullname="$_SERVER[&quot;REDIS_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[NjM3OQ==]]></property><property name="MAIL_DRIVER" fullname="$_SERVER[&quot;MAIL_DRIVER&quot;]" type="string" size="4" encoding="base64"><![CDATA[c210cA==]]></property><property name="MAIL_HOST" fullname="$_SERVER[&quot;MAIL_HOST&quot;]" type="string" size="24" encoding="base64"><![CDATA[c210cG91dC5zZWN1cmVzZXJ2ZXIubmV0]]></property><property name="MAIL_PORT" fullname="$_SERVER[&quot;MAIL_PORT&quot;]" type="string" size="3" encoding="base64"><![CDATA[NDY1]]></property><property name="MAIL_USERNAME" fullname="$_SERVER[&quot;MAIL_USERNAME&quot;]" type="string" size="16" encoding="base64"><![CDATA[bmV3c0BuaWltaXNpLmNvbQ==]]></property><property name="MAIL_PASSWORD" fullname="$_SERVER[&quot;MAIL_PASSWORD&quot;]" type="string" size="9" encoding="base64"><![CDATA[TjExTTFTMX4h]]></property><property name="MAIL_ENCRYPTION" fullname="$_SERVER[&quot;MAIL_ENCRYPTION&quot;]" type="string" size="3" encoding="base64"><![CDATA[c3Ns]]></property><property name="MAIL_FROM_ADDRESS" fullname="$_SERVER[&quot;MAIL_FROM_ADDRESS&quot;]" type="string" size="16" encoding="base64"><![CDATA[bmV3c0BuaWltaXNpLmNvbQ==]]></property><property name="MAIL_FROM_NAME" fullname="$_SERVER[&quot;MAIL_FROM_NAME&quot;]" type="string" size="7" encoding="base64"><![CDATA[TmlpbWlzaQ==]]></property><property name="AWS_ACCESS_KEY_ID" fullname="$_SERVER[&quot;AWS_ACCESS_KEY_ID&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_SECRET_ACCESS_KEY" fullname="$_SERVER[&quot;AWS_SECRET_ACCESS_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_DEFAULT_REGION" fullname="$_SERVER[&quot;AWS_DEFAULT_REGION&quot;]" type="string" size="9" encoding="base64"><![CDATA[dXMtZWFzdC0x]]></property><property name="AWS_BUCKET" fullname="$_SERVER[&quot;AWS_BUCKET&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="AWS_USE_PATH_STYLE_ENDPOINT" fullname="$_SERVER[&quot;AWS_USE_PATH_STYLE_ENDPOINT&quot;]" type="string" size="5" encoding="base64"><![CDATA[ZmFsc2U=]]></property><property name="PUSHER_APP_ID" fullname="$_SERVER[&quot;PUSHER_APP_ID&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_KEY" fullname="$_SERVER[&quot;PUSHER_APP_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_SECRET" fullname="$_SERVER[&quot;PUSHER_APP_SECRET&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="PUSHER_APP_CLUSTER" fullname="$_SERVER[&quot;PUSHER_APP_CLUSTER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bXQx]]></property><property name="MIX_PUSHER_APP_KEY" fullname="$_SERVER[&quot;MIX_PUSHER_APP_KEY&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="MIX_PUSHER_APP_CLUSTER" fullname="$_SERVER[&quot;MIX_PUSHER_APP_CLUSTER&quot;]" type="string" size="3" encoding="base64"><![CDATA[bXQx]]></property><property name="FACEBOOK_ID" fullname="$_SERVER[&quot;FACEBOOK_ID&quot;]" type="string" size="15" encoding="base64"><![CDATA[MzgxMjU1NDQ2OTE2MDA3]]></property><property name="FACEBOOK_SECRET" fullname="$_SERVER[&quot;FACEBOOK_SECRET&quot;]" type="string" size="32" encoding="base64"><![CDATA[NGRjNTNiNzhkNjdmYWY2ODg1NjFlNThkOGRlYjRiY2E=]]></property><property name="PHP_SELF" fullname="$_SERVER[&quot;PHP_SELF&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="SCRIPT_NAME" fullname="$_SERVER[&quot;SCRIPT_NAME&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="SCRIPT_FILENAME" fullname="$_SERVER[&quot;SCRIPT_FILENAME&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="PATH_TRANSLATED" fullname="$_SERVER[&quot;PATH_TRANSLATED&quot;]" type="string" size="46" encoding="base64"><![CDATA[QzpcUHJvZ3JhbURhdGFcQ29tcG9zZXJTZXR1cFxiaW5cY29tcG9zZXIucGhhcg==]]></property><property name="DOCUMENT_ROOT" fullname="$_SERVER[&quot;DOCUMENT_ROOT&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="REQUEST_TIME_FLOAT" fullname="$_SERVER[&quot;REQUEST_TIME_FLOAT&quot;]" type="float"><![CDATA[1630571823.3214]]></property><property name="REQUEST_TIME" fullname="$_SERVER[&quot;REQUEST_TIME&quot;]" type="int"><![CDATA[1630571823]]></property><property name="argv" fullname="$_SERVER[&quot;argv&quot;]" type="array" children="1" numchildren="2"></property><property name="argc" fullname="$_SERVER[&quot;argc&quot;]" type="int"><![CDATA[2]]></property></property></response>
+
+[19236] <- context_get -i 20 -d 0 -c 2
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="20" context="2"></response>
+
+[19236] <- run -i 21
+[2600] Log opened at 2021-09-02 08:40:03
+[2600] I: Connecting to configured address/port: 127.0.0.1:9000.
+[2600] I: Connected to client. :-)
+[2600] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///E:/Working/nms_ecomm/artisan" language="PHP" xdebug:language_version="7.3.13" protocol_version="1.0" appid="2600" idekey="mails"><engine version="2.9.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[2600] <- feature_set -i 1 -n show_hidden -v 1
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[2600] <- feature_set -i 2 -n max_depth -v 1
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[2600] <- feature_set -i 3 -n max_children -v 100
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[2600] <- feature_set -i 4 -n extended_properties -v 1
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[2600] <- feature_set -i 5 -n notify_ok -v 1
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[2600] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[2600] <- stdout -i 7 -c 1
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[2600] <- status -i 8
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[2600] <- step_into -i 9
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></xdebug:message></response>
+
+[2600] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[2600] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[2600] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NTSF9DT05ORUNUSU9OJ10p
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[0]]></property></response>
+
+[2600] <- eval -i 13 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10p
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="bool"><![CDATA[0]]></property></response>
+
+[2600] <- breakpoint_set -i 14 -t line -f file://E:/Working/nms_ecomm/app/Http/Controllers/Admin/ProductController.php -n 132
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="14" id="26000001" resolved="unresolved"></response>
+
+[2600] <- stack_get -i 15
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="15"><stack where="{main}" level="0" type="file" filename="file:///E:/Working/nms_ecomm/artisan" lineno="4"></stack></response>
+
+[2600] <- run -i 16
+[2600] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="16" status="stopping" reason="ok"></response>
+
+[2600] <- run -i 17
+[2600] Log closed at 2021-09-02 08:40:04
+
+[19236] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="21" status="stopping" reason="ok"></response>
+
+[19236] Log closed at 2021-09-02 08:40:05
+
+[18616] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="16" status="stopping" reason="ok"></response>
+
+[18616] <- run -i 17
+[18616] Log closed at 2021-09-02 08:40:05
+
+[25088] Log opened at 2021-09-02 08:43:43
+[25088] I: Connecting to configured address/port: 127.0.0.1:9000.
+[25088] E: Time-out connecting to client (Waited: 200 ms). :-(
+[25088] Log closed at 2021-09-02 08:43:43
+

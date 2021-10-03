@@ -1,0 +1,23 @@
+{
+    "sEmptyTable":     "No Data Available",
+    "sInfo":           "Total _TOTAL_ From _START_ To _END_",
+    "sInfoEmpty":      "Showing 0 to 0 of 0 entries",
+    "sInfoFiltered":   "(filtered from _MAX_ total entries)",
+    "sInfoPostFix":    "",
+    "sInfoThousands":  ",",
+    "sLengthMenu":     "Showing _MENU_",
+    "sLoadingRecords": "Loading...",
+    "sProcessing":     "Processing...",
+    "sSearch":         "Search:",
+    "sZeroRecords":    "No Data Available",
+    "oPaginate": {
+        "sFirst":    "First Page",
+        "sLast":     "Last Page",
+        "sNext":     "Next",
+        "sPrevious": "Prev"
+    },
+    "oAria": {
+        "sSortAscending":  ": activate to sort column ascending",
+        "sSortDescending": ": activate to sort column descending"
+    }
+}

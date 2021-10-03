@@ -1,0 +1,101 @@
+.action-icon{
+    font-size: 1.3rem;
+}
+.swal-footer{
+    text-align: center;
+}
+.btn-min{
+    min-width: 75px;
+}
+.dt-button{
+    position: relative;
+    float: left;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+.dt-button:hover, .dt-button:focus{
+    background-color: #494949;
+    border-color: #494949;
+    color: white;
+}
+.buttons-pdf{
+    margin-left: 0.8rem;
+}
+.edit-box{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 40px;
+}
+.edit-box:hover{
+    background-color: #555555;
+}
+.edit-box i{
+    color: white;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.arrow-box{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.select2-selection{
+    height: 38px;
+}
+.unit-question{
+    position: relative;
+}
+.delete-question{
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.image-plus-box{
+    width: 150px;
+    height: 150px;
+    border: 1px dashed #eaeaea;
+    cursor: pointer;
+}
+.image-plus-box i{
+    font-size: 1.5rem;
+    color: grey;
+}
+.single-image-box{
+    width: 150px;
+    height: 150px;
+    border: 1px dashed #eaeaea;
+    position: relative;
+    margin-right: .3rem;
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+.single-image-box i{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    color: black;
+}
+
+

@@ -1,0 +1,10 @@
+There is "orders" table in the database.
+Here, the user_id is the customer id so it is the id of "users" table.
+the product_id is the product id so it is the id of the "products" table.
+Order_number is the auto created number when the ordering is created.(Random 10 string or numbers)
+Order_date is the date when the ordering is created.
+Referral_code is the code when the customer used when ordering so it can be null.
+status is Order status. So it can be "ordered". "refunded","cancelled" and so on.
+
+To test this in the admin backend, you can write 5 or 6 records manually to this table.
+Because this order is created when the customer orders the product so I think it should be done in the stage2 in the checkout&shopping.
